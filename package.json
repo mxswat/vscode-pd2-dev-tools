@@ -1,0 +1,28 @@
+{
+    "name": "pd2-dev-tools",
+    "displayName": "pd2-dev-tools",
+    "description": "Dev tools for PD2 modders",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "lua",
+                "path": "./snippets/lua-snippets.code-snippets"
+            },
+            {
+                "language": "xml",
+                "path": "./snippets/xml-snippets.code-snippets"
+            },
+            {
+                "language": "json",
+                "path": "./snippets/json-snippets.code-snippets"
+            }
+        ]
+    }
+}
