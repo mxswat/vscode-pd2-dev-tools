@@ -1,9 +1,9 @@
 {
     "name": "pd2-dev-tools",
-    "displayName": "PD2 Dev tools",
-    "description": "Dev tools for PD2 modders",
+    "displayName": "Payday 2 Modder's Dev tools",
+    "description": "Dev tools for Payday 2(PD2) modders",
     "publisher": "MassimoMx",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -22,6 +22,10 @@
             {
                 "language": "xml",
                 "path": "./snippets/xml-snippets.code-snippets"
+            },
+            {
+                "language": "xml",
+                "path": "./snippets/main-xml-snippets.code-snippets"
             },
             {
                 "language": "json",

@@ -4,16 +4,18 @@ This extension gives some snippets for PD2 modders
 
 ## Features
 
-Hooks auto complete for the beardlib `main.xml` file
- 
+Auto complete for the beardlib `main.xml` file
 
 ## Known Issues
 
-None
+None, I guess(?)
 
 ## Release Notes
+None
 
-First release!
+### 1.0.2
+Added Addfile snippets eg: `unit`, `texture`, etc etc
+Renamed `hooks_` snippets to `hook_` and added default value pre-selected this should help you if you want to change the name of the file
 
 ### 1.0.0
 

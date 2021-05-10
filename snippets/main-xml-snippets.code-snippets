@@ -1,0 +1,219 @@
+{
+  "AddFile - unit_obj": {
+    "prefix": "unit_obj",
+    "body": [
+      "<unit_obj path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - unit_tex": {
+    "prefix": "unit_tex",
+    "body": [
+      "<unit_tex path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - unit_seq": {
+    "prefix": "unit_seq",
+    "body": [
+      "<unit_seq path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - unit_mat": {
+    "prefix": "unit_mat",
+    "body": [
+      "<unit_mat path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - unit_mat_seq": {
+    "prefix": "unit_mat_seq",
+    "body": [
+      "<unit_mat_seq path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - unit_obj_seq": {
+    "prefix": "unit_obj_seq",
+    "body": [
+      "<unit_obj_seq path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - unit_thq": {
+    "prefix": "unit_thq",
+    "body": [
+      "<unit_thq path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - unit_mat_thq": {
+    "prefix": "unit_mat_thq",
+    "body": [
+      "<unit_mat_thq path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - unit_npc": {
+    "prefix": "unit_npc",
+    "body": [
+      "<unit_npc path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - unit_cc": {
+    "prefix": "unit_cc",
+    "body": [
+      "<unit_cc path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - unit_mat_cc": {
+    "prefix": "unit_mat_cc",
+    "body": [
+      "<unit_mat_cc path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - df_nm": {
+    "prefix": "df_nm",
+    "body": [
+      "<df_nm path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - df_nm_cc": {
+    "prefix": "df_nm_cc",
+    "body": [
+      "<df_nm_cc path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - df_nm_cc_gsma": {
+    "prefix": "df_nm_cc_gsma",
+    "body": [
+      "<df_nm_cc_gsma path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - df_nm_gsma": {
+    "prefix": "df_nm_gsma",
+    "body": [
+      "<df_nm_gsma path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - unit": {
+    "prefix": "unit",
+    "body": [
+      "<unit path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - texture": {
+    "prefix": "texture",
+    "body": [
+      "<texture path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - dds": {
+    "prefix": "dds",
+    "body": [
+      "<dds path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - png": {
+    "prefix": "png",
+    "body": [
+      "<png path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - tga": {
+    "prefix": "tga",
+    "body": [
+      "<tga path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - bik": {
+    "prefix": "bik",
+    "body": [
+      "<bik path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - movie": {
+    "prefix": "movie",
+    "body": [
+      "<movie path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - object": {
+    "prefix": "object",
+    "body": [
+      "<object path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - material_config": {
+    "prefix": "material_config",
+    "body": [
+      "<material_config path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - sequence_manager": {
+    "prefix": "sequence_manager",
+    "body": [
+      "<sequence_manager path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - cooked_physics ": {
+    "prefix": "cooked_physics ",
+    "body": [
+      "<cooked_physics  path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - effect": {
+    "prefix": "effect",
+    "body": [
+      "<effect path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - environment": {
+    "prefix": "environment",
+    "body": [
+      "<environment path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - mission": {
+    "prefix": "mission",
+    "body": [
+      "<mission path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - continent": {
+    "prefix": "continent",
+    "body": [
+      "<continent path=\"$1\"/>",
+      "$2"
+    ]
+  },
+  "AddFile - world": {
+    "prefix": "world",
+    "body": [
+      "<world path=\"$1\"/>",
+      "$2"
+    ]
+  }
+}

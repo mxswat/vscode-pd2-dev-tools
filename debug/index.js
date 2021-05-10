@@ -1,44 +1,89 @@
 const readline = require('readline');
 const fs = require('fs')
 
-const readInterface = readline.createInterface({
+const readInterfaceHashlistLua = readline.createInterface({
+    // README: THE OUTPUT OF THE .PS1 FILE IS UTF8 WITH BOM USE VSCODE TO SAVE IT TO NORMAL UTF8
     input: fs.createReadStream('hashlist_clean.txt', { encoding: 'utf8' }),
     output: process.stdout,
     console: false
 });
 
-const output = {
+// TODO: ADD EXCEPTIONS LIST eg: projectilestweakdata.lua
 
-}
+const output_xml = {}
 
-// README: THE OUTPUT OF THE .PS1 FILE IS UTF8 WITH BOM USE VSCODE TO SAVE IT TO NORMAL UTF8
-// README: THE OUTPUT OF THE .PS1 FILE IS UTF8 WITH BOM USE VSCODE TO SAVE IT TO NORMAL UTF8
-// README: THE OUTPUT OF THE .PS1 FILE IS UTF8 WITH BOM USE VSCODE TO SAVE IT TO NORMAL UTF8
-// README: THE OUTPUT OF THE .PS1 FILE IS UTF8 WITH BOM USE VSCODE TO SAVE IT TO NORMAL UTF8
-// README: THE OUTPUT OF THE .PS1 FILE IS UTF8 WITH BOM USE VSCODE TO SAVE IT TO NORMAL UTF8
-// README: THE OUTPUT OF THE .PS1 FILE IS UTF8 WITH BOM USE VSCODE TO SAVE IT TO NORMAL UTF8
-// README: THE OUTPUT OF THE .PS1 FILE IS UTF8 WITH BOM USE VSCODE TO SAVE IT TO NORMAL UTF8
-
-function templateBuilder(path) {
+function templateBuilderHooks(path) {
     const filename = path.substr(path.lastIndexOf('/') + 1);
-    output[`Hook for ${path}`] = {
-        prefix: `bl_${filename}`,
+    output_xml[`Hook for ${path}`] = {
+        prefix: `hook_${filename}`,
         body: [
-            `<hook file="$1${filename}.lua" source_file="${path}"/>`,
+            `<hook file="\${1:${filename}}.lua" source_file="${path}"/>`,
             "$2"
         ]
     }
 }
 
-readInterface.on('line', (line) => {
-    templateBuilder(line)
+readInterfaceHashlistLua.on('line', (line) => {
+    templateBuilderHooks(line)
 });
 
-readInterface.on('close', () => {
+readInterfaceHashlistLua.on('close', () => {
     console.log('Done!');
 
-    fs.writeFile('../snippets/xml-snippets.code-snippets', JSON.stringify(output,null, 2), {encoding:'utf8'}, (err) => {
+    fs.writeFile('../snippets/xml-snippets.code-snippets', JSON.stringify(output_xml, null, 2), { encoding: 'utf8' }, (err) => {
         if (err) throw err;
         console.log('Data written to file');
     });
+});
+
+
+const AddFilesBase = [
+    'unit_obj',
+    'unit_tex',
+    'unit_seq',
+    'unit_mat',
+    'unit_mat_seq',
+    'unit_obj_seq',
+    'unit_thq',
+    'unit_mat_thq',
+    'unit_npc',
+    'unit_cc',
+    'unit_mat_cc',
+    'df_nm',
+    'df_nm_cc',
+    'df_nm_cc_gsma',
+    'df_nm_gsma',
+    'unit',
+    'texture',
+    'dds',
+    'png',
+    'tga',
+    'bik',
+    'movie',
+    'object',
+    'material_config',
+    'sequence_manager',
+    'cooked_physics ',
+    'effect',
+    'environment',
+    'mission',
+    'continent',
+    'world',
+]
+
+const output_main_mx = {}
+
+AddFilesBase.forEach((nameId) => {
+    output_main_mx[`AddFile - ${nameId}`] = {
+        prefix: nameId,
+        body: [
+            `<${nameId} path="$1"/>`,
+            "$2"
+        ]
+    }
+})
+
+fs.writeFile('../snippets/main-xml-snippets.code-snippets', JSON.stringify(output_main_mx, null, 2), { encoding: 'utf8' }, (err) => {
+    if (err) throw err;
+    console.log('Data written to file');
 });
