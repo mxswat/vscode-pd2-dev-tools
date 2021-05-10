@@ -4,7 +4,7 @@ This extension gives some snippets for PD2 modders
 
 ## Features
 
-Hooks auto complete for the beardlib `main.xml` file
+Hooks auto complete for the beardlib `main.xml` file (only the hooks for now)
  
 
 ## Known Issues
