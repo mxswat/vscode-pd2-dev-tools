@@ -38,7 +38,7 @@ readInterface.on('line', (line) => {
 readInterface.on('close', () => {
     console.log('Done!');
 
-    fs.writeFile('../snippets/xml-snippets.code-snippets', JSON.stringify(output), {encoding:'utf8'}, (err) => {
+    fs.writeFile('../snippets/xml-snippets.code-snippets', JSON.stringify(output,null, 2), {encoding:'utf8'}, (err) => {
         if (err) throw err;
         console.log('Data written to file');
     });
