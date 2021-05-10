@@ -24,7 +24,7 @@ function templateBuilder(path) {
     output[`Hook for ${path}`] = {
         prefix: `bl_${filename}`,
         body: [
-            `<hook file="${filename}.lua" source_file="${path}"/>`,
+            `<hook file="$1${filename}.lua" source_file="${path}"/>`,
             "$2"
         ]
     }
@@ -32,7 +32,6 @@ function templateBuilder(path) {
 
 readInterface.on('line', (line) => {
     templateBuilder(line)
-    console.log(`Done line: ${line}`);
 });
 
 readInterface.on('close', () => {
