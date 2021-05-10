@@ -1,8 +1,9 @@
 {
     "name": "pd2-dev-tools",
-    "displayName": "pd2-dev-tools",
+    "displayName": "PD2 Dev tools",
     "description": "Dev tools for PD2 modders",
-    "version": "0.0.1",
+    "publisher": "MassimoMx",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.56.0"
     },
