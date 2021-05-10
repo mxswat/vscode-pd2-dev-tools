@@ -1,6 +1,6 @@
 # PD2 Dev tools README
 
-This this extension gives some snippets for PD2 modders
+This extension gives some snippets for PD2 modders
 
 ## Features
 

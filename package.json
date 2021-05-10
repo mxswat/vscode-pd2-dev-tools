@@ -10,6 +10,9 @@
     "categories": [
         "Snippets"
     ],
+    "repository": {
+        "url": "https://github.com/mxswat/vscode-pd2-dev-tools"
+    },
     "contributes": {
         "snippets": [
             {
