@@ -1,0 +1,1234 @@
+[
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_ass_m4\/wpn_fps_ass_m4",
+        "id": "new_m4",
+        "factory_id": "wpn_fps_ass_m4",
+        "name": "CAR-4 Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_dragan\/weapons\/wpn_fps_ass_vhs\/wpn_fps_ass_vhs",
+        "id": "vhs",
+        "dlc": "Dragan Character Pack",
+        "factory_id": "wpn_fps_ass_vhs",
+        "name": "Lion's Roar Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_fawp\/weapons\/wpn_fps_sho_m590\/wpn_fps_sho_m590",
+        "id": "m590",
+        "dlc": "ERROR: bm_global_value_fawp",
+        "factory_id": "wpn_fps_sho_m590",
+        "name": "Mosconi 12G Tactical Shotgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_butcher_mods\/weapons\/wpn_fps_pis_x_g22c\/wpn_fps_pis_x_g22c",
+        "id": "x_g22c",
+        "factory_id": "wpn_fps_pis_x_g22c",
+        "name": "Akimbo Chimano Custom Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_lupus\/weapons\/wpn_fps_gre_china\/wpn_fps_gre_china",
+        "id": "china",
+        "dlc": "The Wolf Pack",
+        "factory_id": "wpn_fps_gre_china",
+        "name": "China Puff 40mm Grenade Launcher"
+    },
+    {
+        "unit": "units\/pd2_dlc1\/weapons\/wpn_fps_smg_m45\/wpn_fps_smg_m45",
+        "id": "m45",
+        "dlc": "Armored Transport",
+        "factory_id": "wpn_fps_smg_m45",
+        "name": "Swedish K Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_pis_x_breech\/wpn_fps_pis_x_breech",
+        "id": "x_breech",
+        "factory_id": "wpn_fps_pis_x_breech",
+        "name": "Akimbo Parabellum Pistols"
+    },
+    {
+        "unit": "units\/pd2_crimefest_2014\/oct22\/weapons\/wpn_fps_x_1911\/wpn_fps_x_1911",
+        "id": "x_1911",
+        "factory_id": "wpn_fps_x_1911",
+        "name": "Akimbo Crosskill Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_turtles\/weapons\/wpn_fps_snp_wa2000\/wpn_fps_snp_wa2000",
+        "id": "wa2000",
+        "dlc": "Gage Ninja Pack",
+        "factory_id": "wpn_fps_snp_wa2000",
+        "name": "Lebensauger .308 Sniper Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_mxw\/weapons\/wpn_fps_snp_sbl\/wpn_fps_snp_sbl",
+        "id": "sbl",
+        "dlc": "Gunslinger Weapon Pack",
+        "factory_id": "wpn_fps_snp_sbl",
+        "name": "Bernetti Rangehitter Sniper Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_hajk\/wpn_fps_smg_x_hajk",
+        "id": "x_hajk",
+        "factory_id": "wpn_fps_smg_x_hajk",
+        "name": "Akimbo CR 805B Submachine Guns"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_pis_g22c\/wpn_fps_pis_g22c",
+        "id": "g22c",
+        "dlc": "Community",
+        "factory_id": "wpn_fps_pis_g22c",
+        "name": "Chimano Custom Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_par\/weapons\/wpn_fps_lmg_par\/wpn_fps_lmg_par",
+        "id": "par",
+        "factory_id": "wpn_fps_lmg_par",
+        "name": "KSP 58 Light Machine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_turtles\/weapons\/wpn_fps_smg_polymer\/wpn_fps_smg_polymer",
+        "id": "polymer",
+        "dlc": "Gage Ninja Pack",
+        "factory_id": "wpn_fps_smg_polymer",
+        "name": "Kross Vertex Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_shot\/weapons\/wpn_fps_sho_ben\/wpn_fps_sho_ben",
+        "id": "benelli",
+        "dlc": "Gage Shotgun Pack",
+        "factory_id": "wpn_fps_sho_ben",
+        "name": "M1014 Shotgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_dsg\/weapons\/wpn_fps_sho_x_basset\/wpn_fps_sho_x_basset",
+        "id": "x_basset",
+        "factory_id": "wpn_fps_sho_x_basset",
+        "name": "Brothers Grimm 12G Shotguns"
+    },
+    {
+        "unit": "units\/pd2_dlc_clover\/weapons\/wpn_fps_ass_l85a2\/wpn_fps_ass_l85a2",
+        "id": "l85a2",
+        "dlc": "Clover Character Pack",
+        "factory_id": "wpn_fps_ass_l85a2",
+        "name": "Queen's Wrath Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_fawp\/weapons\/wpn_fps_smg_x_vityaz\/wpn_fps_smg_x_vityaz",
+        "id": "x_vityaz",
+        "dlc": "ERROR: bm_global_value_fawp",
+        "factory_id": "wpn_fps_smg_x_vityaz",
+        "name": "Akimbo AK Gen 21 Tactical SMGs"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_ass_m14\/wpn_fps_ass_m14",
+        "id": "new_m14",
+        "factory_id": "wpn_fps_ass_m14",
+        "name": "M308 Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_snp\/weapons\/wpn_fps_snp_msr\/wpn_fps_snp_msr",
+        "id": "msr",
+        "dlc": "Gage Sniper Pack",
+        "factory_id": "wpn_fps_snp_msr",
+        "name": "Rattlesnake Sniper Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_sft\/weapons\/wpn_fps_fla_system\/wpn_fps_fla_system",
+        "id": "system",
+        "factory_id": "wpn_fps_fla_system",
+        "name": "MA-17 Flamethrower"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_lmg\/weapons\/wpn_fps_lmg_rpk\/wpn_fps_lmg_rpk",
+        "id": "rpk",
+        "dlc": "Gage Weapon Pack #02",
+        "factory_id": "wpn_fps_lmg_rpk",
+        "name": "RPK Light Machine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_berry\/weapons\/wpn_fps_snp_model70\/wpn_fps_snp_model70",
+        "id": "model70",
+        "factory_id": "wpn_fps_snp_model70",
+        "name": "Platypus 70 Sniper Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_wild\/weapons\/wpn_fps_sho_boot\/wpn_fps_sho_boot",
+        "id": "boot",
+        "dlc": "Biker Character Pack",
+        "factory_id": "wpn_fps_sho_boot",
+        "name": "Breaker 12G Shotgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_fawp\/weapons\/wpn_fps_smg_vityaz\/wpn_fps_smg_vityaz",
+        "id": "vityaz",
+        "dlc": "ERROR: bm_global_value_fawp",
+        "factory_id": "wpn_fps_smg_vityaz",
+        "name": "AK Gen 21 Tactical Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_snp\/weapons\/wpn_fps_snp_m95\/wpn_fps_snp_m95",
+        "id": "m95",
+        "dlc": "Gage Sniper Pack",
+        "factory_id": "wpn_fps_snp_m95",
+        "name": "Thanatos .50 cal Sniper Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_m45\/wpn_fps_smg_x_m45",
+        "id": "x_m45",
+        "factory_id": "wpn_fps_smg_x_m45",
+        "name": "Akimbo Swedish K Submachine Guns"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_shot_r870\/wpn_fps_shot_r870",
+        "id": "r870",
+        "factory_id": "wpn_fps_shot_r870",
+        "name": "Reinfeld 880 Shotgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_assault\/weapons\/wpn_fps_ass_famas\/wpn_fps_ass_famas",
+        "id": "famas",
+        "dlc": "Gage Assault Pack",
+        "factory_id": "wpn_fps_ass_famas",
+        "name": "Clarion Rifle"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_ass_aug\/wpn_fps_ass_aug",
+        "id": "aug",
+        "factory_id": "wpn_fps_ass_aug",
+        "name": "UAR Rifle"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_pis_deagle\/wpn_fps_pis_deagle",
+        "id": "deagle",
+        "factory_id": "wpn_fps_pis_deagle",
+        "name": "Deagle Pistol"
+    },
+    {
+        "unit": "units\/pd2_crimefest_2014\/oct26\/weapons\/wpn_fps_sho_spas12\/wpn_fps_sho_spas12",
+        "id": "spas12",
+        "dlc": "Community",
+        "factory_id": "wpn_fps_sho_spas12",
+        "name": "Predator 12G Shotgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_bbq\/weapons\/wpn_fps_sho_aa12\/wpn_fps_sho_aa12",
+        "id": "aa12",
+        "dlc": "BBQ Weapon Pack",
+        "factory_id": "wpn_fps_sho_aa12",
+        "name": "Steakout 12G Shotgun"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_ass_akm_gold\/wpn_fps_ass_akm_gold",
+        "id": "akm_gold",
+        "dlc": "Community",
+        "factory_id": "wpn_fps_ass_akm_gold",
+        "name": "Golden AK.762 Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_atw\/weapons\/wpn_fps_pis_x_holt\/wpn_fps_pis_x_holt",
+        "id": "x_holt",
+        "dlc": "Fugitive Weapon Pack",
+        "factory_id": "wpn_fps_pis_x_holt",
+        "name": "Akimbo HOLT 9mm Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_dec5\/weapons\/wpn_fps_ass_scar\/wpn_fps_ass_scar",
+        "id": "scar",
+        "dlc": "Gage Weapon Pack #01",
+        "factory_id": "wpn_fps_ass_scar",
+        "name": "Eagle Heavy Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_spa\/weapons\/wpn_fps_snp_tti\/wpn_fps_snp_tti",
+        "id": "tti",
+        "dlc": "John Wick Heists",
+        "factory_id": "wpn_fps_snp_tti",
+        "name": "Contractor .308 Sniper Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_sho_x_judge\/wpn_fps_pis_x_judge",
+        "id": "x_judge",
+        "factory_id": "wpn_fps_pis_x_judge",
+        "name": "Akimbo Judge Shotguns"
+    },
+    {
+        "unit": "units\/pd2_dlc_peta\/weapons\/wpn_fps_shot_m37\/wpn_fps_shot_m37",
+        "id": "m37",
+        "dlc": "The Goat Simulator Heist DLC",
+        "factory_id": "wpn_fps_shot_m37",
+        "name": "GSPS 12G Shotgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_dos\/weapons\/wpn_fps_smg_x_akmsu\/wpn_fps_smg_x_akmsu",
+        "id": "x_akmsu",
+        "factory_id": "wpn_fps_smg_x_akmsu",
+        "name": "Akimbo Krinkov Submachine Guns"
+    },
+    {
+        "unit": "units\/pd2_dlc_mxw\/weapons\/wpn_fps_shot_m1897\/wpn_fps_shot_m1897",
+        "id": "m1897",
+        "dlc": "Gunslinger Weapon Pack",
+        "factory_id": "wpn_fps_shot_m1897",
+        "name": "Reinfeld 88 Shotgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_butcher_mods\/weapons\/wpn_fps_pis_x_g17\/wpn_fps_pis_x_g17",
+        "id": "x_g17",
+        "factory_id": "wpn_fps_pis_x_g17",
+        "name": "Akimbo Chimano 88 Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_rota\/weapons\/wpn_fps_sho_rota\/wpn_fps_sho_rota",
+        "id": "rota",
+        "dlc": "Goliath",
+        "factory_id": "wpn_fps_sho_rota",
+        "name": "Goliath 12G Shotgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_west\/weapons\/wpn_fps_snp_winchester\/wpn_fps_snp_winchester",
+        "id": "winchester1874",
+        "dlc": "Western Weapon Pack ",
+        "factory_id": "wpn_fps_snp_winchester",
+        "name": "Repeater 1874 Sniper Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc1\/weapons\/wpn_fps_pis_ppk\/wpn_fps_pis_ppk",
+        "id": "ppk",
+        "dlc": "Armored Transport",
+        "factory_id": "wpn_fps_pis_ppk",
+        "name": "Gruber Kurz Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_character_sokol\/weapons\/wpn_fps_ass_asval\/wpn_fps_ass_asval",
+        "id": "asval",
+        "dlc": "Sokol Character Pack",
+        "factory_id": "wpn_fps_ass_asval",
+        "name": "Valkyria Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_uzi\/wpn_fps_smg_x_uzi",
+        "id": "x_uzi",
+        "factory_id": "wpn_fps_smg_x_uzi",
+        "name": "Akimbo Uzi Submachine Guns"
+    },
+    {
+        "unit": "units\/pd2_dlc_pines\/weapons\/wpn_fps_smg_m1928\/wpn_fps_smg_thompson",
+        "id": "m1928",
+        "dlc": "Community",
+        "factory_id": "wpn_fps_smg_thompson",
+        "name": "Chicago Typewriter Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_grv\/weapons\/wpn_fps_snp_siltstone\/wpn_fps_snp_siltstone",
+        "id": "siltstone",
+        "dlc": "Gage Russian Weapon Pack",
+        "factory_id": "wpn_fps_snp_siltstone",
+        "name": "Grom Sniper Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_opera\/weapons\/wpn_fps_ass_tecci\/wpn_fps_ass_tecci",
+        "id": "tecci",
+        "dlc": "The Sydney Character Pack",
+        "factory_id": "wpn_fps_ass_tecci",
+        "name": "Bootleg Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_mp7\/wpn_fps_smg_x_mp7",
+        "id": "x_mp7",
+        "factory_id": "wpn_fps_smg_x_mp7",
+        "name": "Akimbo SpecOps Submachine Guns"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_shot_huntsman\/wpn_fps_shot_huntsman",
+        "id": "huntsman",
+        "factory_id": "wpn_fps_shot_huntsman",
+        "name": "Mosconi 12G Shotgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_pim\/weapons\/wpn_fps_smg_schakal\/wpn_fps_smg_schakal",
+        "id": "schakal",
+        "dlc": "John Wick Weapon Pack",
+        "factory_id": "wpn_fps_smg_schakal",
+        "name": "Jackal Submachine Gun"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_shot_shorty\/wpn_fps_shot_shorty",
+        "id": "serbu",
+        "factory_id": "wpn_fps_shot_serbu",
+        "name": "Locomotive 12G Shotgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_old\/weapons\/wpn_fps_pis_breech\/wpn_fps_pis_breech",
+        "id": "breech",
+        "factory_id": "wpn_fps_pis_breech",
+        "name": "Parabellum Pistol"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_ass_ak5\/wpn_fps_ass_ak5",
+        "id": "ak5",
+        "factory_id": "wpn_fps_ass_ak5",
+        "name": "AK5 Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_miami\/weapons\/wpn_fps_smg_tec9\/wpn_fps_smg_tec9",
+        "id": "tec9",
+        "dlc": "Hotline Miami DLC",
+        "factory_id": "wpn_fps_smg_tec9",
+        "name": "Blaster 9mm Submachine Gun"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_ass_m4\/wpn_fps_ass_m4_sniper",
+        "id": "new_m4_sniper",
+        "dlc": "MODS",
+        "factory_id": "wpn_fps_ass_m4_sniper",
+        "name": "CAR-4 Sniper Var"
+    },
+    {
+        "unit": "units\/pd2_dlc_miami\/weapons\/wpn_fps_smg_uzi\/wpn_fps_smg_uzi",
+        "id": "uzi",
+        "dlc": "Hotline Miami DLC",
+        "factory_id": "wpn_fps_smg_uzi",
+        "name": "Uzi Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_m1928\/wpn_fps_smg_x_m1928",
+        "id": "x_m1928",
+        "factory_id": "wpn_fps_smg_x_m1928",
+        "name": "Akimbo Chicago Typewriter SMGs"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_erma\/wpn_fps_smg_x_erma",
+        "id": "x_erma",
+        "factory_id": "wpn_fps_smg_x_erma",
+        "name": "Akimbo MP40 Submachine Guns"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_assault\/weapons\/wpn_fps_gre_m79\/wpn_fps_gre_m79",
+        "id": "gre_m79",
+        "dlc": "Gage Assault Pack",
+        "factory_id": "wpn_fps_gre_m79",
+        "name": "GL40 Grenade Launcher"
+    },
+    {
+        "unit": "units\/pd2_dlc_arena\/weapons\/wpn_fps_pis_2006m\/wpn_fps_pis_2006m",
+        "id": "mateba",
+        "dlc": "The Alesso Heist DLC",
+        "factory_id": "wpn_fps_pis_2006m",
+        "name": "Matever .357 Revolver"
+    },
+    {
+        "unit": "units\/pd2_dlc_atw\/weapons\/wpn_fps_pis_holt\/wpn_fps_pis_holt",
+        "id": "holt",
+        "dlc": "Fugitive Weapon Pack",
+        "factory_id": "wpn_fps_pis_holt",
+        "name": "HOLT 9mm Pistol"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_smg_akmsu\/wpn_fps_smg_akmsu",
+        "id": "akmsu",
+        "factory_id": "wpn_fps_smg_akmsu",
+        "name": "Krinkov Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_steel\/weapons\/wpn_fps_bow_arblast\/wpn_fps_bow_arblast",
+        "id": "arblast",
+        "dlc": "Gage Chivalry Pack",
+        "factory_id": "wpn_fps_bow_arblast",
+        "name": "Heavy Crossbow"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_coal\/wpn_fps_smg_x_coal",
+        "id": "x_coal",
+        "factory_id": "wpn_fps_smg_x_coal",
+        "name": "Akimbo Tatonka Submachine Guns"
+    },
+    {
+        "unit": "units\/pd2_dlc_dos\/weapons\/wpn_fps_smg_x_mp5\/wpn_fps_smg_x_mp5",
+        "id": "x_mp5",
+        "factory_id": "wpn_fps_smg_x_mp5",
+        "name": "Akimbo Compact-5 Submachine Guns"
+    },
+    {
+        "unit": "units\/pd2_crimefest_2014\/oct22\/weapons\/wpn_fps_pis_g26\/wpn_fps_pis_g26",
+        "id": "g26",
+        "dlc": "Community",
+        "factory_id": "wpn_fps_pis_g26",
+        "name": "Chimano Compact Pistol"
+    },
+    {
+        "unit": "units\/pd2_crimefest_2014\/oct22\/weapons\/wpn_fps_x_b92fs\/wpn_fps_x_b92fs",
+        "id": "x_b92fs",
+        "factory_id": "wpn_fps_x_b92fs",
+        "name": "Akimbo Bernetti 9 Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_bonnie\/weapons\/wpn_fps_shot_b682\/wpn_fps_shot_b682",
+        "id": "b682",
+        "dlc": "Community",
+        "factory_id": "wpn_fps_shot_b682",
+        "name": "Joceline O\/U 12G Shotgun"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_smg_mac10\/wpn_fps_smg_mac10",
+        "id": "mac10",
+        "factory_id": "wpn_fps_smg_mac10",
+        "name": "Mark 10 Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_afp\/weapons\/wpn_fps_pis_x_czech\/wpn_fps_pis_x_czech",
+        "id": "x_czech",
+        "dlc": "Federales Weapon Pack",
+        "factory_id": "wpn_fps_pis_x_czech",
+        "name": "Akimbo Czech 92 Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc1\/weapons\/wpn_fps_ass_s552\/wpn_fps_ass_s552",
+        "id": "s552",
+        "dlc": "Armored Transport",
+        "factory_id": "wpn_fps_ass_s552",
+        "name": "Commando 553 Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_mxw\/weapons\/wpn_fps_pis_model3\/wpn_fps_pis_model3",
+        "id": "model3",
+        "dlc": "Gunslinger Weapon Pack",
+        "factory_id": "wpn_fps_pis_model3",
+        "name": "Frenchman Model 87 Revolver"
+    },
+    {
+        "unit": "units\/pd2_dlc_afp\/weapons\/wpn_fps_pis_x_beer\/wpn_fps_pis_x_beer",
+        "id": "x_beer",
+        "dlc": "Federales Weapon Pack",
+        "factory_id": "wpn_fps_pis_x_beer",
+        "name": "Akimbo Bernetti Auto Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_khp\/weapons\/wpn_fps_pis_x_legacy\/wpn_fps_pis_x_legacy",
+        "id": "x_legacy",
+        "dlc": "Normal",
+        "factory_id": "wpn_fps_pis_x_legacy",
+        "name": "Akimbo M13 9mm Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_sdb\/weapons\/wpn_fps_sho_coach\/wpn_fps_sho_coach",
+        "id": "coach",
+        "dlc": "Normal",
+        "factory_id": "wpn_fps_sho_coach",
+        "name": "Claire 12G Shotgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_mxw\/weapons\/wpn_fps_pis_x_model3\/wpn_fps_pis_x_model3",
+        "id": "x_model3",
+        "dlc": "Gunslinger Weapon Pack",
+        "factory_id": "wpn_fps_pis_x_model3",
+        "name": "Akimbo Frenchman Model 87 Revolvers"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_pis_x_rage\/wpn_fps_pis_x_rage",
+        "id": "x_rage",
+        "factory_id": "wpn_fps_pis_x_rage",
+        "name": "Akimbo Bronco .44 Revolvers"
+    },
+    {
+        "unit": "units\/pd2_dlc_casino\/weapons\/wpn_fps_ass_sub2000\/wpn_fps_ass_sub2000",
+        "id": "sub2000",
+        "dlc": "The Golden Grin Casino",
+        "factory_id": "wpn_fps_ass_sub2000",
+        "name": "Cavity 9mm"
+    },
+    {
+        "unit": "units\/pd2_dlc_miami\/weapons\/wpn_fps_smg_scorpion\/wpn_fps_smg_scorpion",
+        "id": "scorpion",
+        "dlc": "Hotline Miami DLC",
+        "factory_id": "wpn_fps_smg_scorpion",
+        "name": "Cobra Submachine Gun"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_pis_usp\/wpn_fps_pis_usp",
+        "id": "usp",
+        "dlc": "Community",
+        "factory_id": "wpn_fps_pis_usp",
+        "name": "Interceptor 45 Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_khp\/weapons\/wpn_fps_pis_legacy\/wpn_fps_pis_legacy",
+        "id": "legacy",
+        "dlc": "Normal",
+        "factory_id": "wpn_fps_pis_legacy",
+        "name": "M13 9mm Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_snp\/weapons\/wpn_fps_snp_r93\/wpn_fps_snp_r93",
+        "id": "r93",
+        "dlc": "Gage Sniper Pack",
+        "factory_id": "wpn_fps_snp_r93",
+        "name": "R93 Sniper Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_old\/weapons\/wpn_fps_ass_ching\/wpn_fps_ass_ching",
+        "id": "ching",
+        "factory_id": "wpn_fps_ass_ching",
+        "name": "Galant Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_pim\/weapons\/wpn_fps_pis_packrat\/wpn_fps_pis_packrat",
+        "id": "packrat",
+        "dlc": "John Wick Weapon Pack",
+        "factory_id": "wpn_fps_pis_packrat",
+        "name": "Contractor Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_ram\/weapons\/wpn_fps_bow_elastic\/wpn_fps_bow_elastic",
+        "id": "elastic",
+        "dlc": "Normal",
+        "factory_id": "wpn_fps_bow_elastic",
+        "name": "DECA Technologies Compound Bow"
+    },
+    {
+        "unit": "units\/pd2_dlc_myh\/weapons\/wpn_fps_pis_x_shrew\/wpn_fps_pis_x_shrew",
+        "id": "x_shrew",
+        "factory_id": "wpn_fps_pis_x_shrew",
+        "name": "Akimbo Crosskill Guard Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_dmg\/weapons\/wpn_fps_lmg_shuno\/wpn_fps_lmg_shuno",
+        "id": "shuno",
+        "factory_id": "wpn_fps_lmg_shuno",
+        "name": "XL 5.56 Microgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_pis_x_hs2000\/wpn_fps_pis_x_hs2000",
+        "id": "x_hs2000",
+        "factory_id": "wpn_fps_pis_x_hs2000",
+        "name": "Akimbo LEO Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_sho_x_rota\/wpn_fps_sho_x_rota",
+        "id": "x_rota",
+        "factory_id": "wpn_fps_sho_x_rota",
+        "name": "Akimbo Goliath 12G Shotguns"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_historical\/weapons\/wpn_fps_lmg_mg42\/wpn_fps_lmg_mg42",
+        "id": "mg42",
+        "dlc": "Gage Historical Pack",
+        "factory_id": "wpn_fps_lmg_mg42",
+        "name": "Buzzsaw 42 Light Machine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_atw\/weapons\/wpn_fps_snp_r700\/wpn_fps_snp_r700",
+        "id": "r700",
+        "dlc": "Fugitive Weapon Pack",
+        "factory_id": "wpn_fps_snp_r700",
+        "name": "R700 Sniper Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_pis_x_sparrow\/wpn_fps_pis_x_sparrow",
+        "id": "x_sparrow",
+        "factory_id": "wpn_fps_pis_x_sparrow",
+        "name": "Akimbo Baby Deagle Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_dec5\/weapons\/wpn_fps_smg_mp7\/wpn_fps_smg_mp7",
+        "id": "mp7",
+        "dlc": "Gage Weapon Pack #01",
+        "factory_id": "wpn_fps_smg_mp7",
+        "name": "SpecOps Submachine Gun"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_shot_saiga\/wpn_fps_shot_saiga",
+        "id": "saiga",
+        "factory_id": "wpn_fps_shot_saiga",
+        "name": "IZHMA 12G Shotgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_scorpion\/wpn_fps_smg_x_scorpion",
+        "id": "x_scorpion",
+        "factory_id": "wpn_fps_smg_x_scorpion",
+        "name": "Akimbo Cobra Submachine Guns"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_pis_x_pl14\/wpn_fps_pis_x_pl14",
+        "id": "x_pl14",
+        "factory_id": "wpn_fps_pis_x_pl14",
+        "name": "Akimbo White Streak Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_pis_x_p226\/wpn_fps_pis_x_p226",
+        "id": "x_p226",
+        "factory_id": "wpn_fps_pis_x_p226",
+        "name": "Akimbo Signature .40 Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_assault\/weapons\/wpn_fps_ass_g3\/wpn_fps_ass_g3",
+        "id": "g3",
+        "dlc": "Gage Assault Pack",
+        "factory_id": "wpn_fps_ass_g3",
+        "name": "Gewehr 3 Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_pis_x_g18c\/wpn_fps_pis_x_g18c",
+        "id": "x_g18c",
+        "factory_id": "wpn_fps_pis_x_g18c",
+        "name": "Akimbo STRYK 18c Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_pis_x_c96\/wpn_fps_pis_x_c96",
+        "id": "x_c96",
+        "factory_id": "wpn_fps_pis_x_c96",
+        "name": "Akimbo Broomstick Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_mad\/weapons\/wpn_fps_pis_pl14\/wpn_fps_pis_pl14",
+        "id": "pl14",
+        "factory_id": "wpn_fps_pis_pl14",
+        "name": "White Streak Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_friend\/weapons\/wpn_fps_gre_ray\/wpn_fps_gre_ray",
+        "id": "ray",
+        "dlc": "Scarface Character Pack",
+        "factory_id": "wpn_fps_gre_ray",
+        "name": "Commando 101 Rocket Launcher"
+    },
+    {
+        "unit": "units\/pd2_dlc_pim\/weapons\/wpn_fps_snp_desertfox\/wpn_fps_snp_desertfox",
+        "id": "desertfox",
+        "dlc": "John Wick Weapon Pack",
+        "factory_id": "wpn_fps_snp_desertfox",
+        "name": "Desertfox Sniper Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_pis_x_2006m\/wpn_fps_pis_x_2006m",
+        "id": "x_2006m",
+        "factory_id": "wpn_fps_pis_x_2006m",
+        "name": "Akimbo Matever .357 Revolvers"
+    },
+    {
+        "unit": "units\/pd2_million\/weapons\/wpn_fps_pis_judge\/wpn_fps_pis_judge",
+        "id": "judge",
+        "dlc": "Community",
+        "factory_id": "wpn_fps_pis_judge",
+        "name": "The Judge Shotgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_dec5\/weapons\/wpn_fps_pis_p226\/wpn_fps_pis_p226",
+        "id": "p226",
+        "dlc": "Gage Weapon Pack #01",
+        "factory_id": "wpn_fps_pis_p226",
+        "name": "Signature .40 Pistol"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_smg_mp9\/wpn_fps_smg_mp9",
+        "id": "mp9",
+        "factory_id": "wpn_fps_smg_mp9",
+        "name": "CMP Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_steel\/weapons\/wpn_fps_bow_frankish\/wpn_fps_bow_frankish",
+        "id": "frankish",
+        "dlc": "Gage Chivalry Pack",
+        "factory_id": "wpn_fps_bow_frankish",
+        "name": "Light Crossbow"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_schakal\/wpn_fps_smg_x_schakal",
+        "id": "x_schakal",
+        "factory_id": "wpn_fps_smg_x_schakal",
+        "name": "Akimbo Jackal Submachine Guns"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_polymer\/wpn_fps_smg_x_polymer",
+        "id": "x_polymer",
+        "factory_id": "wpn_fps_smg_x_polymer",
+        "name": "Akimbo Kross Vertex Submachine Guns"
+    },
+    {
+        "unit": "units\/pd2_dlc_butcher_mods\/weapons\/wpn_fps_pis_x_usp\/wpn_fps_pis_x_usp",
+        "id": "x_usp",
+        "factory_id": "wpn_fps_pis_x_usp",
+        "name": "Akimbo Interceptor 45 Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_p90\/wpn_fps_smg_x_p90",
+        "id": "x_p90",
+        "factory_id": "wpn_fps_smg_x_p90",
+        "name": "Akimbo Kobus 90 Submachine Guns"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_mp9\/wpn_fps_smg_x_mp9",
+        "id": "x_mp9",
+        "factory_id": "wpn_fps_smg_x_mp9",
+        "name": "Akimbo CMP Submachine Guns"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_mac10\/wpn_fps_smg_x_mac10",
+        "id": "x_mac10",
+        "factory_id": "wpn_fps_smg_x_mac10",
+        "name": "Akimbo Mark 10 Submachine Guns"
+    },
+    {
+        "unit": "units\/pd2_dlc_afp\/weapons\/wpn_fps_pis_czech\/wpn_fps_pis_czech",
+        "id": "czech",
+        "dlc": "Federales Weapon Pack",
+        "factory_id": "wpn_fps_pis_czech",
+        "name": "Czech 92 Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_cobray\/wpn_fps_smg_x_cobray",
+        "id": "x_cobray",
+        "factory_id": "wpn_fps_smg_x_cobray",
+        "name": "Akimbo Jacket's Piece"
+    },
+    {
+        "unit": "units\/pd2_dlc_bbq\/weapons\/wpn_fps_gre_m32\/wpn_fps_gre_m32",
+        "id": "m32",
+        "dlc": "BBQ Weapon Pack",
+        "factory_id": "wpn_fps_gre_m32",
+        "name": "Piglet Grenade Launcher"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_saw\/wpn_fps_saw",
+        "id": "saw",
+        "factory_id": "wpn_fps_saw",
+        "name": "OVE9000 Saw"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_baka\/wpn_fps_smg_x_baka",
+        "id": "x_baka",
+        "factory_id": "wpn_fps_smg_x_baka",
+        "name": "Akimbo Micro Uzi Submachine Guns"
+    },
+    {
+        "unit": "units\/pd2_dlc_afp\/weapons\/wpn_fps_pis_x_stech\/wpn_fps_pis_x_stech",
+        "id": "x_stech",
+        "dlc": "Federales Weapon Pack",
+        "factory_id": "wpn_fps_pis_x_stech",
+        "name": "Akimbo Igor Automatik Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_rvd\/weapons\/wpn_fps_ass_corgi\/wpn_fps_ass_corgi",
+        "id": "corgi",
+        "dlc": " ",
+        "factory_id": "wpn_fps_ass_corgi",
+        "name": "Union 5.56 Rifle"
+    },
+    {
+        "unit": "units\/pd2_crimefest_2014\/oct22\/weapons\/wpn_fps_x_deagle\/wpn_fps_x_deagle",
+        "id": "x_deagle",
+        "factory_id": "wpn_fps_x_deagle",
+        "name": "Akimbo Deagle Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_dsg\/weapons\/wpn_fps_sho_basset\/wpn_fps_sho_basset",
+        "id": "basset",
+        "factory_id": "wpn_fps_sho_basset",
+        "name": "Grimm 12G Shotgun"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_olympic\/wpn_fps_smg_x_olympic",
+        "id": "x_olympic",
+        "factory_id": "wpn_fps_smg_x_olympic",
+        "name": "Akimbo Para Submachine Guns"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_pis_b92fs\/wpn_fps_pis_beretta",
+        "id": "b92fs",
+        "factory_id": "wpn_fps_pis_beretta",
+        "name": "Bernetti 9 Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_old\/weapons\/wpn_fps_smg_erma\/wpn_fps_smg_erma",
+        "id": "erma",
+        "factory_id": "wpn_fps_smg_erma",
+        "name": "MP40 Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_atw\/weapons\/wpn_fps_lmg_m60\/wpn_fps_lmg_m60",
+        "id": "m60",
+        "dlc": "Fugitive Weapon Pack",
+        "factory_id": "wpn_fps_lmg_m60",
+        "name": "M60 Light Machine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_big\/weapons\/wpn_fps_ass_fal\/wpn_fps_ass_fal",
+        "id": "fal",
+        "dlc": "Big Bank Heist",
+        "factory_id": "wpn_fps_ass_fal",
+        "name": "Falcon Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_tec9\/wpn_fps_smg_x_tec9",
+        "id": "x_tec9",
+        "factory_id": "wpn_fps_smg_x_tec9",
+        "name": "Akimbo Blaster 9mm Submachine Guns"
+    },
+    {
+        "unit": "units\/pd2_dlc_born\/weapons\/wpn_fps_smg_hajk\/wpn_fps_smg_hajk",
+        "id": "hajk",
+        "dlc": "The Biker Heist",
+        "factory_id": "wpn_fps_smg_hajk",
+        "name": "CR 805B Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_afp\/weapons\/wpn_fps_pis_stech\/wpn_fps_pis_stech",
+        "id": "stech",
+        "dlc": "Federales Weapon Pack",
+        "factory_id": "wpn_fps_pis_stech",
+        "name": "Igor Automatik Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_joy\/weapons\/wpn_fps_smg_shepheard\/wpn_fps_smg_shepheard",
+        "id": "shepheard",
+        "factory_id": "wpn_fps_smg_shepheard",
+        "name": "Signature Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_afp\/weapons\/wpn_fps_pis_beer\/wpn_fps_pis_beer",
+        "id": "beer",
+        "dlc": "Federales Weapon Pack",
+        "factory_id": "wpn_fps_pis_beer",
+        "name": "Bernetti Auto Pistol"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_pis_rage\/wpn_fps_pis_rage",
+        "id": "new_raging_bull",
+        "factory_id": "wpn_fps_pis_rage",
+        "name": "Bronco .44 Revolver"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_pis_x_ppk\/wpn_fps_pis_x_ppk",
+        "id": "x_ppk",
+        "factory_id": "wpn_fps_pis_x_ppk",
+        "name": "Akimbo Gruber Kurz Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_grv\/weapons\/wpn_fps_smg_coal\/wpn_fps_smg_coal",
+        "id": "coal",
+        "dlc": "Gage Russian Weapon Pack",
+        "factory_id": "wpn_fps_smg_coal",
+        "name": "Tatonka Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_grv\/weapons\/wpn_fps_ass_flint\/wpn_fps_ass_flint",
+        "id": "flint",
+        "dlc": "Gage Russian Weapon Pack",
+        "factory_id": "wpn_fps_ass_flint",
+        "name": "AK17 Rifle"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_ass_74\/wpn_fps_ass_74",
+        "id": "ak74",
+        "factory_id": "wpn_fps_ass_74",
+        "name": "AK Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_fawp\/weapons\/wpn_fps_pis_m1911\/wpn_fps_pis_m1911",
+        "id": "m1911",
+        "dlc": "ERROR: bm_global_value_fawp",
+        "factory_id": "wpn_fps_pis_m1911",
+        "name": "Crosskill Chunky Compact Pistol"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_ass_akm\/wpn_fps_ass_akm",
+        "id": "akm",
+        "factory_id": "wpn_fps_ass_akm",
+        "name": "AK.762 Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_historical\/weapons\/wpn_fps_snp_mosin\/wpn_fps_snp_mosin",
+        "id": "mosin",
+        "dlc": "Gage Historical Pack",
+        "factory_id": "wpn_fps_snp_mosin",
+        "name": "Nagant Sniper Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_the_bomb\/weapons\/wpn_fps_pis_hs2000\/wpn_fps_pis_hs2000",
+        "id": "hs2000",
+        "dlc": "The Bomb Heists",
+        "factory_id": "wpn_fps_pis_hs2000",
+        "name": "LEO Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_fi7\/weapons\/wpn_fps_pis_lemming\/wpn_fps_pis_lemming",
+        "id": "lemming",
+        "dlc": "Community",
+        "factory_id": "wpn_fps_pis_lemming",
+        "name": "5\/7 AP Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_joy\/weapons\/wpn_fps_smg_x_shepheard\/wpn_fps_smg_x_shepheard",
+        "id": "x_shepheard",
+        "factory_id": "wpn_fps_smg_x_shepheard",
+        "name": "Akimbo Signature Submachine Guns"
+    },
+    {
+        "unit": "units\/pd2_dlc_hotline2\/weapons\/wpn_fps_smg_cobray\/wpn_fps_smg_cobray",
+        "id": "cobray",
+        "dlc": "Hotline Miami 2: Wrong Number - Digital Special Edition",
+        "factory_id": "wpn_fps_smg_cobray",
+        "name": "Jacket's Piece"
+    },
+    {
+        "unit": "units\/pd2_dlc_osa\/weapons\/wpn_fps_smg_x_sterling\/wpn_fps_smg_x_sterling",
+        "id": "x_sterling",
+        "factory_id": "wpn_fps_smg_x_sterling",
+        "name": "Akimbo Patchett L2A1 Submachine Guns"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_pis_1911\/wpn_fps_pis_1911",
+        "id": "colt_1911",
+        "factory_id": "wpn_fps_pis_1911",
+        "name": "Crosskill Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_west\/weapons\/wpn_fps_bow_plainsrider\/wpn_fps_bow_plainsrider",
+        "id": "plainsrider",
+        "dlc": "Western Weapon Pack ",
+        "factory_id": "wpn_fps_bow_plainsrider",
+        "name": "Plainsrider Bow"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_smg_olympic\/wpn_fps_smg_olympic",
+        "id": "olympic",
+        "factory_id": "wpn_fps_smg_olympic",
+        "name": "Para Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_turtles\/weapons\/wpn_fps_bow_hunter\/wpn_fps_bow_hunter",
+        "id": "hunter",
+        "dlc": "Gage Ninja Pack",
+        "factory_id": "wpn_fps_bow_hunter",
+        "name": "Pistol Crossbow"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_pis_g18c\/wpn_fps_pis_g18c",
+        "id": "glock_18c",
+        "factory_id": "wpn_fps_pis_g18c",
+        "name": "STRYK 18c Pistol"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_ass_m16\/wpn_fps_ass_m16",
+        "id": "m16",
+        "factory_id": "wpn_fps_ass_m16",
+        "name": "AMR-16 Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_assault\/weapons\/wpn_fps_ass_galil\/wpn_fps_ass_galil",
+        "id": "galil",
+        "dlc": "Gage Assault Pack",
+        "factory_id": "wpn_fps_ass_galil",
+        "name": "Gecko 7.62 Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_historical\/weapons\/wpn_fps_smg_sterling\/wpn_fps_smg_sterling",
+        "id": "sterling",
+        "dlc": "Gage Historical Pack",
+        "factory_id": "wpn_fps_smg_sterling",
+        "name": "Patchett L2A1 Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_shot\/weapons\/wpn_fps_sho_striker\/wpn_fps_sho_striker",
+        "id": "striker",
+        "dlc": "Gage Shotgun Pack",
+        "factory_id": "wpn_fps_sho_striker",
+        "name": "Street Sweeper Shotgun"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_smg_mp5\/wpn_fps_smg_mp5",
+        "id": "new_mp5",
+        "factory_id": "wpn_fps_smg_mp5",
+        "name": "Compact-5 Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_overkill_pack\/weapons\/wpn_fps_rpg7\/wpn_fps_rpg7",
+        "id": "rpg7",
+        "dlc": "OVERKILL Pack",
+        "factory_id": "wpn_fps_rpg7",
+        "name": "HRL-7 Rocket Launcher"
+    },
+    {
+        "unit": "units\/pd2_dlc_tng\/weapons\/wpn_fps_gre_arbiter\/wpn_fps_gre_arbiter",
+        "id": "arbiter",
+        "dlc": "Gage Spec Ops Pack",
+        "factory_id": "wpn_fps_gre_arbiter",
+        "name": "Arbiter Grenade Launcher"
+    },
+    {
+        "unit": "units\/pd2_dlc_max\/weapons\/wpn_fps_pis_x_chinchilla\/wpn_fps_pis_x_chinchilla",
+        "id": "x_chinchilla",
+        "factory_id": "wpn_fps_pis_x_chinchilla",
+        "name": "Akimbo Castigo .44 Revolvers"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_lmg\/weapons\/wpn_fps_lmg_m249\/wpn_fps_lmg_m249",
+        "id": "m249",
+        "dlc": "Gage Weapon Pack #02",
+        "factory_id": "wpn_fps_lmg_m249",
+        "name": "KSP Light Machine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_chico\/weapons\/wpn_fps_ass_contraband\/wpn_fps_ass_contraband",
+        "id": "contraband",
+        "dlc": "Scarface Character Pack",
+        "factory_id": "wpn_fps_ass_contraband",
+        "name": "Little Friend 7.62 Assault Rifle"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_ass_g36\/wpn_fps_ass_g36",
+        "id": "g36",
+        "factory_id": "wpn_fps_ass_g36",
+        "name": "JP36 Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_bbq\/weapons\/wpn_fps_fla_mk2\/wpn_fps_fla_mk2",
+        "id": "flamethrower_mk2",
+        "dlc": "BBQ Weapon Pack",
+        "factory_id": "wpn_fps_fla_mk2",
+        "name": "Flamethrower Mk.1"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_historical\/weapons\/wpn_fps_pis_c96\/wpn_fps_pis_c96",
+        "id": "c96",
+        "dlc": "Gage Historical Pack",
+        "factory_id": "wpn_fps_pis_c96",
+        "name": "Broomstick Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_lmg\/weapons\/wpn_fps_lmg_hk21\/wpn_fps_lmg_hk21",
+        "id": "hk21",
+        "dlc": "Gage Weapon Pack #02",
+        "factory_id": "wpn_fps_lmg_hk21",
+        "name": "Brenner-21 Light Machine Gun"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_pis_g17\/wpn_fps_pis_g17",
+        "id": "glock_17",
+        "factory_id": "wpn_fps_pis_g17",
+        "name": "Chimano 88 Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_steel\/weapons\/wpn_fps_bow_long\/wpn_fps_bow_long",
+        "id": "long",
+        "dlc": "Gage Chivalry Pack",
+        "factory_id": "wpn_fps_bow_long",
+        "name": "English Longbow"
+    },
+    {
+        "unit": "units\/pd2_dlc_myh\/weapons\/wpn_fps_pis_shrew\/wpn_fps_pis_shrew",
+        "id": "shrew",
+        "factory_id": "wpn_fps_pis_shrew",
+        "name": "Crosskill Guard Pistol"
+    },
+    {
+        "unit": "units\/pd2_dlc_tar\/weapons\/wpn_fps_ass_komodo\/wpn_fps_ass_komodo",
+        "id": "komodo",
+        "dlc": "Normal",
+        "factory_id": "wpn_fps_ass_komodo",
+        "name": "Tempest-21 Rifle"
+    },
+    {
+        "unit": "units\/pd2_dlc_coco\/weapons\/wpn_fps_smg_x_sr2\/wpn_fps_smg_x_sr2",
+        "id": "x_sr2",
+        "factory_id": "wpn_fps_smg_x_sr2",
+        "name": "Akimbo Heather Submachine Guns"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_ass_amcar\/wpn_fps_ass_amcar",
+        "id": "amcar",
+        "factory_id": "wpn_fps_ass_amcar",
+        "name": "AMCAR Rifle"
+    },
+    {
+        "unit": "units\/payday2\/weapons\/wpn_fps_smg_p90\/wpn_fps_smg_p90",
+        "id": "p90",
+        "factory_id": "wpn_fps_smg_p90",
+        "name": "Kobus 90 Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_fawp\/weapons\/wpn_fps_pis_x_m1911\/wpn_fps_pis_x_m1911",
+        "id": "x_m1911",
+        "dlc": "ERROR: bm_global_value_fawp",
+        "factory_id": "wpn_fps_pis_x_m1911",
+        "name": "Akimbo Crosskill Chunky Compact Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_ecp\/weapons\/wpn_fps_bow_ecp\/wpn_fps_bow_ecp",
+        "id": "ecp",
+        "dlc": "h3h3 Character Pack",
+        "factory_id": "wpn_fps_bow_ecp",
+        "name": "Airbow"
+    },
+    {
+        "unit": "units\/pd2_crimefest_2014\/oct22\/weapons\/wpn_fps_jowi\/wpn_fps_jowi",
+        "id": "jowi",
+        "factory_id": "wpn_fps_jowi",
+        "name": "Akimbo Chimano Compact Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_west\/weapons\/wpn_fps_pis_peacemaker\/wpn_fps_pis_peacemaker",
+        "id": "peacemaker",
+        "dlc": "Western Weapon Pack ",
+        "factory_id": "wpn_fps_pis_peacemaker",
+        "name": "Peacemaker .45 Revolver"
+    },
+    {
+        "unit": "units\/pd2_dlc_fgl\/weapons\/wpn_fps_gre_slap\/wpn_fps_gre_slap",
+        "id": "slap",
+        "factory_id": "wpn_fps_gre_slap",
+        "name": "Compact 40mm Grenade Launcher"
+    },
+    {
+        "unit": "units\/pd2_dlc_pim\/weapons\/wpn_fps_x_packrat\/wpn_fps_x_packrat",
+        "id": "x_packrat",
+        "dlc": "John Wick Weapon Pack",
+        "factory_id": "wpn_fps_x_packrat",
+        "name": "Akimbo Contractor Pistols"
+    },
+    {
+        "unit": "units\/pd2_dlc_gage_shot\/weapons\/wpn_fps_sho_ksg\/wpn_fps_sho_ksg",
+        "id": "ksg",
+        "dlc": "Gage Shotgun Pack",
+        "factory_id": "wpn_fps_sho_ksg",
+        "name": "Raven Shotgun"
+    },
+    {
+        "unit": "units\/mods\/weapons\/wpn_fps_gre_sbl\/wpn_fps_gre_sbl",
+        "id": "div_sbl",
+        "dlc": "MODS",
+        "factory_id": "wpn_fps_gre_sbl",
+        "name": "Sticky Bomb Launcher"
+    },
+    {
+        "unit": "units\/pd2_dlc_rip\/weapons\/wpn_fps_pis_sparrow\/wpn_fps_pis_sparrow",
+        "id": "sparrow",
+        "dlc": "The Point Break heists DLC",
+        "factory_id": "wpn_fps_pis_sparrow",
+        "name": "Baby Deagle"
+    },
+    {
+        "unit": "units\/pd2_dlc_coco\/weapons\/wpn_fps_smg_sr2\/wpn_fps_smg_sr2",
+        "id": "sr2",
+        "factory_id": "wpn_fps_smg_sr2",
+        "name": "Heather Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_overkill_pack\/weapons\/wpn_fps_lmg_m134\/wpn_fps_lmg_m134",
+        "id": "m134",
+        "dlc": "OVERKILL Pack",
+        "factory_id": "wpn_fps_lmg_m134",
+        "name": "Vulcan Minigun"
+    },
+    {
+        "unit": "units\/pd2_dlc_dragon\/weapons\/wpn_fps_smg_baka\/wpn_fps_smg_baka",
+        "id": "baka",
+        "dlc": "Yakuza Character Pack",
+        "factory_id": "wpn_fps_smg_baka",
+        "name": "Micro Uzi Submachine Gun"
+    },
+    {
+        "unit": "units\/pd2_dlc_max\/weapons\/wpn_fps_pis_chinchilla\/wpn_fps_pis_chinchilla",
+        "id": "chinchilla",
+        "factory_id": "wpn_fps_pis_chinchilla",
+        "name": "Castigo .44 Revolver"
+    }
+]

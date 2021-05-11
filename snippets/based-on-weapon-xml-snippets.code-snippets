@@ -1,0 +1,1166 @@
+{
+  "CAR-4 Rifle": {
+    "prefix": "wbased_on_new_m4",
+    "body": [
+      "based_on=\"new_m4\""
+    ]
+  },
+  "Lion's Roar Rifle": {
+    "prefix": "wbased_on_vhs",
+    "body": [
+      "based_on=\"vhs\""
+    ]
+  },
+  "Mosconi 12G Tactical Shotgun": {
+    "prefix": "wbased_on_m590",
+    "body": [
+      "based_on=\"m590\""
+    ]
+  },
+  "Akimbo Chimano Custom Pistols": {
+    "prefix": "wbased_on_x_g22c",
+    "body": [
+      "based_on=\"x_g22c\""
+    ]
+  },
+  "China Puff 40mm Grenade Launcher": {
+    "prefix": "wbased_on_china",
+    "body": [
+      "based_on=\"china\""
+    ]
+  },
+  "Swedish K Submachine Gun": {
+    "prefix": "wbased_on_m45",
+    "body": [
+      "based_on=\"m45\""
+    ]
+  },
+  "Akimbo Parabellum Pistols": {
+    "prefix": "wbased_on_x_breech",
+    "body": [
+      "based_on=\"x_breech\""
+    ]
+  },
+  "Akimbo Crosskill Pistols": {
+    "prefix": "wbased_on_x_1911",
+    "body": [
+      "based_on=\"x_1911\""
+    ]
+  },
+  "Lebensauger .308 Sniper Rifle": {
+    "prefix": "wbased_on_wa2000",
+    "body": [
+      "based_on=\"wa2000\""
+    ]
+  },
+  "Bernetti Rangehitter Sniper Rifle": {
+    "prefix": "wbased_on_sbl",
+    "body": [
+      "based_on=\"sbl\""
+    ]
+  },
+  "Akimbo CR 805B Submachine Guns": {
+    "prefix": "wbased_on_x_hajk",
+    "body": [
+      "based_on=\"x_hajk\""
+    ]
+  },
+  "Chimano Custom Pistol": {
+    "prefix": "wbased_on_g22c",
+    "body": [
+      "based_on=\"g22c\""
+    ]
+  },
+  "KSP 58 Light Machine Gun": {
+    "prefix": "wbased_on_par",
+    "body": [
+      "based_on=\"par\""
+    ]
+  },
+  "Kross Vertex Submachine Gun": {
+    "prefix": "wbased_on_polymer",
+    "body": [
+      "based_on=\"polymer\""
+    ]
+  },
+  "M1014 Shotgun": {
+    "prefix": "wbased_on_benelli",
+    "body": [
+      "based_on=\"benelli\""
+    ]
+  },
+  "Brothers Grimm 12G Shotguns": {
+    "prefix": "wbased_on_x_basset",
+    "body": [
+      "based_on=\"x_basset\""
+    ]
+  },
+  "Queen's Wrath Rifle": {
+    "prefix": "wbased_on_l85a2",
+    "body": [
+      "based_on=\"l85a2\""
+    ]
+  },
+  "Akimbo AK Gen 21 Tactical SMGs": {
+    "prefix": "wbased_on_x_vityaz",
+    "body": [
+      "based_on=\"x_vityaz\""
+    ]
+  },
+  "M308 Rifle": {
+    "prefix": "wbased_on_new_m14",
+    "body": [
+      "based_on=\"new_m14\""
+    ]
+  },
+  "Rattlesnake Sniper Rifle": {
+    "prefix": "wbased_on_msr",
+    "body": [
+      "based_on=\"msr\""
+    ]
+  },
+  "MA-17 Flamethrower": {
+    "prefix": "wbased_on_system",
+    "body": [
+      "based_on=\"system\""
+    ]
+  },
+  "RPK Light Machine Gun": {
+    "prefix": "wbased_on_rpk",
+    "body": [
+      "based_on=\"rpk\""
+    ]
+  },
+  "Platypus 70 Sniper Rifle": {
+    "prefix": "wbased_on_model70",
+    "body": [
+      "based_on=\"model70\""
+    ]
+  },
+  "Breaker 12G Shotgun": {
+    "prefix": "wbased_on_boot",
+    "body": [
+      "based_on=\"boot\""
+    ]
+  },
+  "AK Gen 21 Tactical Submachine Gun": {
+    "prefix": "wbased_on_vityaz",
+    "body": [
+      "based_on=\"vityaz\""
+    ]
+  },
+  "Thanatos .50 cal Sniper Rifle": {
+    "prefix": "wbased_on_m95",
+    "body": [
+      "based_on=\"m95\""
+    ]
+  },
+  "Akimbo Swedish K Submachine Guns": {
+    "prefix": "wbased_on_x_m45",
+    "body": [
+      "based_on=\"x_m45\""
+    ]
+  },
+  "Reinfeld 880 Shotgun": {
+    "prefix": "wbased_on_r870",
+    "body": [
+      "based_on=\"r870\""
+    ]
+  },
+  "Clarion Rifle": {
+    "prefix": "wbased_on_famas",
+    "body": [
+      "based_on=\"famas\""
+    ]
+  },
+  "UAR Rifle": {
+    "prefix": "wbased_on_aug",
+    "body": [
+      "based_on=\"aug\""
+    ]
+  },
+  "Deagle Pistol": {
+    "prefix": "wbased_on_deagle",
+    "body": [
+      "based_on=\"deagle\""
+    ]
+  },
+  "Predator 12G Shotgun": {
+    "prefix": "wbased_on_spas12",
+    "body": [
+      "based_on=\"spas12\""
+    ]
+  },
+  "Steakout 12G Shotgun": {
+    "prefix": "wbased_on_aa12",
+    "body": [
+      "based_on=\"aa12\""
+    ]
+  },
+  "Golden AK.762 Rifle": {
+    "prefix": "wbased_on_akm_gold",
+    "body": [
+      "based_on=\"akm_gold\""
+    ]
+  },
+  "Akimbo HOLT 9mm Pistols": {
+    "prefix": "wbased_on_x_holt",
+    "body": [
+      "based_on=\"x_holt\""
+    ]
+  },
+  "Eagle Heavy Rifle": {
+    "prefix": "wbased_on_scar",
+    "body": [
+      "based_on=\"scar\""
+    ]
+  },
+  "Contractor .308 Sniper Rifle": {
+    "prefix": "wbased_on_tti",
+    "body": [
+      "based_on=\"tti\""
+    ]
+  },
+  "Akimbo Judge Shotguns": {
+    "prefix": "wbased_on_x_judge",
+    "body": [
+      "based_on=\"x_judge\""
+    ]
+  },
+  "GSPS 12G Shotgun": {
+    "prefix": "wbased_on_m37",
+    "body": [
+      "based_on=\"m37\""
+    ]
+  },
+  "Akimbo Krinkov Submachine Guns": {
+    "prefix": "wbased_on_x_akmsu",
+    "body": [
+      "based_on=\"x_akmsu\""
+    ]
+  },
+  "Reinfeld 88 Shotgun": {
+    "prefix": "wbased_on_m1897",
+    "body": [
+      "based_on=\"m1897\""
+    ]
+  },
+  "Akimbo Chimano 88 Pistols": {
+    "prefix": "wbased_on_x_g17",
+    "body": [
+      "based_on=\"x_g17\""
+    ]
+  },
+  "Goliath 12G Shotgun": {
+    "prefix": "wbased_on_rota",
+    "body": [
+      "based_on=\"rota\""
+    ]
+  },
+  "Repeater 1874 Sniper Rifle": {
+    "prefix": "wbased_on_winchester1874",
+    "body": [
+      "based_on=\"winchester1874\""
+    ]
+  },
+  "Gruber Kurz Pistol": {
+    "prefix": "wbased_on_ppk",
+    "body": [
+      "based_on=\"ppk\""
+    ]
+  },
+  "Valkyria Rifle": {
+    "prefix": "wbased_on_asval",
+    "body": [
+      "based_on=\"asval\""
+    ]
+  },
+  "Akimbo Uzi Submachine Guns": {
+    "prefix": "wbased_on_x_uzi",
+    "body": [
+      "based_on=\"x_uzi\""
+    ]
+  },
+  "Chicago Typewriter Submachine Gun": {
+    "prefix": "wbased_on_m1928",
+    "body": [
+      "based_on=\"m1928\""
+    ]
+  },
+  "Grom Sniper Rifle": {
+    "prefix": "wbased_on_siltstone",
+    "body": [
+      "based_on=\"siltstone\""
+    ]
+  },
+  "Bootleg Rifle": {
+    "prefix": "wbased_on_tecci",
+    "body": [
+      "based_on=\"tecci\""
+    ]
+  },
+  "Akimbo SpecOps Submachine Guns": {
+    "prefix": "wbased_on_x_mp7",
+    "body": [
+      "based_on=\"x_mp7\""
+    ]
+  },
+  "Mosconi 12G Shotgun": {
+    "prefix": "wbased_on_huntsman",
+    "body": [
+      "based_on=\"huntsman\""
+    ]
+  },
+  "Akimbo GL40": {
+    "prefix": "wbased_on_gre_m79_mxakimbo",
+    "body": [
+      "based_on=\"gre_m79_mxakimbo\""
+    ]
+  },
+  "Jackal Submachine Gun": {
+    "prefix": "wbased_on_schakal",
+    "body": [
+      "based_on=\"schakal\""
+    ]
+  },
+  "Locomotive 12G Shotgun": {
+    "prefix": "wbased_on_serbu",
+    "body": [
+      "based_on=\"serbu\""
+    ]
+  },
+  "Parabellum Pistol": {
+    "prefix": "wbased_on_breech",
+    "body": [
+      "based_on=\"breech\""
+    ]
+  },
+  "Akimbo China": {
+    "prefix": "wbased_on_china_mxakimbo",
+    "body": [
+      "based_on=\"china_mxakimbo\""
+    ]
+  },
+  "AK5 Rifle": {
+    "prefix": "wbased_on_ak5",
+    "body": [
+      "based_on=\"ak5\""
+    ]
+  },
+  "Blaster 9mm Submachine Gun": {
+    "prefix": "wbased_on_tec9",
+    "body": [
+      "based_on=\"tec9\""
+    ]
+  },
+  "CAR-4 Sniper Var": {
+    "prefix": "wbased_on_new_m4_sniper",
+    "body": [
+      "based_on=\"new_m4_sniper\""
+    ]
+  },
+  "SMAW": {
+    "prefix": "wbased_on_smaw",
+    "body": [
+      "based_on=\"smaw\""
+    ]
+  },
+  "Uzi Submachine Gun": {
+    "prefix": "wbased_on_uzi",
+    "body": [
+      "based_on=\"uzi\""
+    ]
+  },
+  "Akimbo Chicago Typewriter SMGs": {
+    "prefix": "wbased_on_x_m1928",
+    "body": [
+      "based_on=\"x_m1928\""
+    ]
+  },
+  "Akimbo MP40 Submachine Guns": {
+    "prefix": "wbased_on_x_erma",
+    "body": [
+      "based_on=\"x_erma\""
+    ]
+  },
+  "GL40 Grenade Launcher": {
+    "prefix": "wbased_on_gre_m79",
+    "body": [
+      "based_on=\"gre_m79\""
+    ]
+  },
+  "Matever .357 Revolver": {
+    "prefix": "wbased_on_mateba",
+    "body": [
+      "based_on=\"mateba\""
+    ]
+  },
+  "HOLT 9mm Pistol": {
+    "prefix": "wbased_on_holt",
+    "body": [
+      "based_on=\"holt\""
+    ]
+  },
+  "Krinkov Submachine Gun": {
+    "prefix": "wbased_on_akmsu",
+    "body": [
+      "based_on=\"akmsu\""
+    ]
+  },
+  "Heavy Crossbow": {
+    "prefix": "wbased_on_arblast",
+    "body": [
+      "based_on=\"arblast\""
+    ]
+  },
+  "Akimbo Tatonka Submachine Guns": {
+    "prefix": "wbased_on_x_coal",
+    "body": [
+      "based_on=\"x_coal\""
+    ]
+  },
+  "Akimbo Compact-5 Submachine Guns": {
+    "prefix": "wbased_on_x_mp5",
+    "body": [
+      "based_on=\"x_mp5\""
+    ]
+  },
+  "Chimano Compact Pistol": {
+    "prefix": "wbased_on_g26",
+    "body": [
+      "based_on=\"g26\""
+    ]
+  },
+  "Akimbo Bernetti 9 Pistols": {
+    "prefix": "wbased_on_x_b92fs",
+    "body": [
+      "based_on=\"x_b92fs\""
+    ]
+  },
+  "Joceline O/U 12G Shotgun": {
+    "prefix": "wbased_on_b682",
+    "body": [
+      "based_on=\"b682\""
+    ]
+  },
+  "Mark 10 Submachine Gun": {
+    "prefix": "wbased_on_mac10",
+    "body": [
+      "based_on=\"mac10\""
+    ]
+  },
+  "Akimbo Czech 92 Pistols": {
+    "prefix": "wbased_on_x_czech",
+    "body": [
+      "based_on=\"x_czech\""
+    ]
+  },
+  "Commando 553 Rifle": {
+    "prefix": "wbased_on_s552",
+    "body": [
+      "based_on=\"s552\""
+    ]
+  },
+  "Frenchman Model 87 Revolver": {
+    "prefix": "wbased_on_model3",
+    "body": [
+      "based_on=\"model3\""
+    ]
+  },
+  "Akimbo Bernetti Auto Pistols": {
+    "prefix": "wbased_on_x_beer",
+    "body": [
+      "based_on=\"x_beer\""
+    ]
+  },
+  "Akimbo M13 9mm Pistols": {
+    "prefix": "wbased_on_x_legacy",
+    "body": [
+      "based_on=\"x_legacy\""
+    ]
+  },
+  "Claire 12G Shotgun": {
+    "prefix": "wbased_on_coach",
+    "body": [
+      "based_on=\"coach\""
+    ]
+  },
+  "Akimbo Frenchman Model 87 Revolvers": {
+    "prefix": "wbased_on_x_model3",
+    "body": [
+      "based_on=\"x_model3\""
+    ]
+  },
+  "Akimbo Bronco .44 Revolvers": {
+    "prefix": "wbased_on_x_rage",
+    "body": [
+      "based_on=\"x_rage\""
+    ]
+  },
+  "Cavity 9mm": {
+    "prefix": "wbased_on_sub2000",
+    "body": [
+      "based_on=\"sub2000\""
+    ]
+  },
+  "Cobra Submachine Gun": {
+    "prefix": "wbased_on_scorpion",
+    "body": [
+      "based_on=\"scorpion\""
+    ]
+  },
+  "Interceptor 45 Pistol": {
+    "prefix": "wbased_on_usp",
+    "body": [
+      "based_on=\"usp\""
+    ]
+  },
+  "M13 9mm Pistol": {
+    "prefix": "wbased_on_legacy",
+    "body": [
+      "based_on=\"legacy\""
+    ]
+  },
+  "R93 Sniper Rifle": {
+    "prefix": "wbased_on_r93",
+    "body": [
+      "based_on=\"r93\""
+    ]
+  },
+  "Galant Rifle": {
+    "prefix": "wbased_on_ching",
+    "body": [
+      "based_on=\"ching\""
+    ]
+  },
+  "Contractor Pistol": {
+    "prefix": "wbased_on_packrat",
+    "body": [
+      "based_on=\"packrat\""
+    ]
+  },
+  "DECA Technologies Compound Bow": {
+    "prefix": "wbased_on_elastic",
+    "body": [
+      "based_on=\"elastic\""
+    ]
+  },
+  "Akimbo Crosskill Guard Pistols": {
+    "prefix": "wbased_on_x_shrew",
+    "body": [
+      "based_on=\"x_shrew\""
+    ]
+  },
+  "XL 5.56 Microgun": {
+    "prefix": "wbased_on_shuno",
+    "body": [
+      "based_on=\"shuno\""
+    ]
+  },
+  "Akimbo LEO Pistols": {
+    "prefix": "wbased_on_x_hs2000",
+    "body": [
+      "based_on=\"x_hs2000\""
+    ]
+  },
+  "Akimbo Goliath 12G Shotguns": {
+    "prefix": "wbased_on_x_rota",
+    "body": [
+      "based_on=\"x_rota\""
+    ]
+  },
+  "Buzzsaw 42 Light Machine Gun": {
+    "prefix": "wbased_on_mg42",
+    "body": [
+      "based_on=\"mg42\""
+    ]
+  },
+  "R700 Sniper Rifle": {
+    "prefix": "wbased_on_r700",
+    "body": [
+      "based_on=\"r700\""
+    ]
+  },
+  "Akimbo Baby Deagle Pistols": {
+    "prefix": "wbased_on_x_sparrow",
+    "body": [
+      "based_on=\"x_sparrow\""
+    ]
+  },
+  "SpecOps Submachine Gun": {
+    "prefix": "wbased_on_mp7",
+    "body": [
+      "based_on=\"mp7\""
+    ]
+  },
+  "IZHMA 12G Shotgun": {
+    "prefix": "wbased_on_saiga",
+    "body": [
+      "based_on=\"saiga\""
+    ]
+  },
+  "Akimbo Cobra Submachine Guns": {
+    "prefix": "wbased_on_x_scorpion",
+    "body": [
+      "based_on=\"x_scorpion\""
+    ]
+  },
+  "Akimbo White Streak Pistols": {
+    "prefix": "wbased_on_x_pl14",
+    "body": [
+      "based_on=\"x_pl14\""
+    ]
+  },
+  "Akimbo Signature .40 Pistols": {
+    "prefix": "wbased_on_x_p226",
+    "body": [
+      "based_on=\"x_p226\""
+    ]
+  },
+  "Gewehr 3 Rifle": {
+    "prefix": "wbased_on_g3",
+    "body": [
+      "based_on=\"g3\""
+    ]
+  },
+  "Akimbo STRYK 18c Pistols": {
+    "prefix": "wbased_on_x_g18c",
+    "body": [
+      "based_on=\"x_g18c\""
+    ]
+  },
+  "Akimbo Broomstick Pistols": {
+    "prefix": "wbased_on_x_c96",
+    "body": [
+      "based_on=\"x_c96\""
+    ]
+  },
+  "White Streak Pistol": {
+    "prefix": "wbased_on_pl14",
+    "body": [
+      "based_on=\"pl14\""
+    ]
+  },
+  "Commando 101 Rocket Launcher": {
+    "prefix": "wbased_on_ray",
+    "body": [
+      "based_on=\"ray\""
+    ]
+  },
+  "Desertfox Sniper Rifle": {
+    "prefix": "wbased_on_desertfox",
+    "body": [
+      "based_on=\"desertfox\""
+    ]
+  },
+  "Akimbo Matever .357 Revolvers": {
+    "prefix": "wbased_on_x_2006m",
+    "body": [
+      "based_on=\"x_2006m\""
+    ]
+  },
+  "The Judge Shotgun": {
+    "prefix": "wbased_on_judge",
+    "body": [
+      "based_on=\"judge\""
+    ]
+  },
+  "Signature .40 Pistol": {
+    "prefix": "wbased_on_p226",
+    "body": [
+      "based_on=\"p226\""
+    ]
+  },
+  "CMP Submachine Gun": {
+    "prefix": "wbased_on_mp9",
+    "body": [
+      "based_on=\"mp9\""
+    ]
+  },
+  "Light Crossbow": {
+    "prefix": "wbased_on_frankish",
+    "body": [
+      "based_on=\"frankish\""
+    ]
+  },
+  "Akimbo Jackal Submachine Guns": {
+    "prefix": "wbased_on_x_schakal",
+    "body": [
+      "based_on=\"x_schakal\""
+    ]
+  },
+  "Akimbo Kross Vertex Submachine Guns": {
+    "prefix": "wbased_on_x_polymer",
+    "body": [
+      "based_on=\"x_polymer\""
+    ]
+  },
+  "Akimbo Interceptor 45 Pistols": {
+    "prefix": "wbased_on_x_usp",
+    "body": [
+      "based_on=\"x_usp\""
+    ]
+  },
+  "Akimbo Kobus 90 Submachine Guns": {
+    "prefix": "wbased_on_x_p90",
+    "body": [
+      "based_on=\"x_p90\""
+    ]
+  },
+  "Akimbo CMP Submachine Guns": {
+    "prefix": "wbased_on_x_mp9",
+    "body": [
+      "based_on=\"x_mp9\""
+    ]
+  },
+  "Akimbo Mark 10 Submachine Guns": {
+    "prefix": "wbased_on_x_mac10",
+    "body": [
+      "based_on=\"x_mac10\""
+    ]
+  },
+  "Czech 92 Pistol": {
+    "prefix": "wbased_on_czech",
+    "body": [
+      "based_on=\"czech\""
+    ]
+  },
+  "Akimbo Jacket's Piece": {
+    "prefix": "wbased_on_x_cobray",
+    "body": [
+      "based_on=\"x_cobray\""
+    ]
+  },
+  "Piglet Grenade Launcher": {
+    "prefix": "wbased_on_m32",
+    "body": [
+      "based_on=\"m32\""
+    ]
+  },
+  "OVE9000 Saw": {
+    "prefix": "wbased_on_saw",
+    "body": [
+      "based_on=\"saw\""
+    ]
+  },
+  "Akimbo Micro Uzi Submachine Guns": {
+    "prefix": "wbased_on_x_baka",
+    "body": [
+      "based_on=\"x_baka\""
+    ]
+  },
+  "Akimbo Igor Automatik Pistols": {
+    "prefix": "wbased_on_x_stech",
+    "body": [
+      "based_on=\"x_stech\""
+    ]
+  },
+  "Union 5.56 Rifle": {
+    "prefix": "wbased_on_corgi",
+    "body": [
+      "based_on=\"corgi\""
+    ]
+  },
+  "Akimbo Deagle Pistols": {
+    "prefix": "wbased_on_x_deagle",
+    "body": [
+      "based_on=\"x_deagle\""
+    ]
+  },
+  "Grimm 12G Shotgun": {
+    "prefix": "wbased_on_basset",
+    "body": [
+      "based_on=\"basset\""
+    ]
+  },
+  "Akimbo Para Submachine Guns": {
+    "prefix": "wbased_on_x_olympic",
+    "body": [
+      "based_on=\"x_olympic\""
+    ]
+  },
+  "Bernetti 9 Pistol": {
+    "prefix": "wbased_on_b92fs",
+    "body": [
+      "based_on=\"b92fs\""
+    ]
+  },
+  "MP40 Submachine Gun": {
+    "prefix": "wbased_on_erma",
+    "body": [
+      "based_on=\"erma\""
+    ]
+  },
+  "M60 Light Machine Gun": {
+    "prefix": "wbased_on_m60",
+    "body": [
+      "based_on=\"m60\""
+    ]
+  },
+  "Falcon Rifle": {
+    "prefix": "wbased_on_fal",
+    "body": [
+      "based_on=\"fal\""
+    ]
+  },
+  "Akimbo Blaster 9mm Submachine Guns": {
+    "prefix": "wbased_on_x_tec9",
+    "body": [
+      "based_on=\"x_tec9\""
+    ]
+  },
+  "CR 805B Submachine Gun": {
+    "prefix": "wbased_on_hajk",
+    "body": [
+      "based_on=\"hajk\""
+    ]
+  },
+  "Igor Automatik Pistol": {
+    "prefix": "wbased_on_stech",
+    "body": [
+      "based_on=\"stech\""
+    ]
+  },
+  "Signature Submachine Gun": {
+    "prefix": "wbased_on_shepheard",
+    "body": [
+      "based_on=\"shepheard\""
+    ]
+  },
+  "Bernetti Auto Pistol": {
+    "prefix": "wbased_on_beer",
+    "body": [
+      "based_on=\"beer\""
+    ]
+  },
+  "Bronco .44 Revolver": {
+    "prefix": "wbased_on_new_raging_bull",
+    "body": [
+      "based_on=\"new_raging_bull\""
+    ]
+  },
+  "Akimbo Gruber Kurz Pistols": {
+    "prefix": "wbased_on_x_ppk",
+    "body": [
+      "based_on=\"x_ppk\""
+    ]
+  },
+  "Tatonka Submachine Gun": {
+    "prefix": "wbased_on_coal",
+    "body": [
+      "based_on=\"coal\""
+    ]
+  },
+  "AK17 Rifle": {
+    "prefix": "wbased_on_flint",
+    "body": [
+      "based_on=\"flint\""
+    ]
+  },
+  "AK Rifle": {
+    "prefix": "wbased_on_ak74",
+    "body": [
+      "based_on=\"ak74\""
+    ]
+  },
+  "Crosskill Chunky Compact Pistol": {
+    "prefix": "wbased_on_m1911",
+    "body": [
+      "based_on=\"m1911\""
+    ]
+  },
+  "AK.762 Rifle": {
+    "prefix": "wbased_on_akm",
+    "body": [
+      "based_on=\"akm\""
+    ]
+  },
+  "Nagant Sniper Rifle": {
+    "prefix": "wbased_on_mosin",
+    "body": [
+      "based_on=\"mosin\""
+    ]
+  },
+  "LEO Pistol": {
+    "prefix": "wbased_on_hs2000",
+    "body": [
+      "based_on=\"hs2000\""
+    ]
+  },
+  "5/7 AP Pistol": {
+    "prefix": "wbased_on_lemming",
+    "body": [
+      "based_on=\"lemming\""
+    ]
+  },
+  "Akimbo Signature Submachine Guns": {
+    "prefix": "wbased_on_x_shepheard",
+    "body": [
+      "based_on=\"x_shepheard\""
+    ]
+  },
+  "Jacket's Piece": {
+    "prefix": "wbased_on_cobray",
+    "body": [
+      "based_on=\"cobray\""
+    ]
+  },
+  "Akimbo Patchett L2A1 Submachine Guns": {
+    "prefix": "wbased_on_x_sterling",
+    "body": [
+      "based_on=\"x_sterling\""
+    ]
+  },
+  "Crosskill Pistol": {
+    "prefix": "wbased_on_colt_1911",
+    "body": [
+      "based_on=\"colt_1911\""
+    ]
+  },
+  "Plainsrider Bow": {
+    "prefix": "wbased_on_plainsrider",
+    "body": [
+      "based_on=\"plainsrider\""
+    ]
+  },
+  "Para Submachine Gun": {
+    "prefix": "wbased_on_olympic",
+    "body": [
+      "based_on=\"olympic\""
+    ]
+  },
+  "Pistol Crossbow": {
+    "prefix": "wbased_on_hunter",
+    "body": [
+      "based_on=\"hunter\""
+    ]
+  },
+  "STRYK 18c Pistol": {
+    "prefix": "wbased_on_glock_18c",
+    "body": [
+      "based_on=\"glock_18c\""
+    ]
+  },
+  "AMR-16 Rifle": {
+    "prefix": "wbased_on_m16",
+    "body": [
+      "based_on=\"m16\""
+    ]
+  },
+  "Gecko 7.62 Rifle": {
+    "prefix": "wbased_on_galil",
+    "body": [
+      "based_on=\"galil\""
+    ]
+  },
+  "Patchett L2A1 Submachine Gun": {
+    "prefix": "wbased_on_sterling",
+    "body": [
+      "based_on=\"sterling\""
+    ]
+  },
+  "Street Sweeper Shotgun": {
+    "prefix": "wbased_on_striker",
+    "body": [
+      "based_on=\"striker\""
+    ]
+  },
+  "Compact-5 Submachine Gun": {
+    "prefix": "wbased_on_new_mp5",
+    "body": [
+      "based_on=\"new_mp5\""
+    ]
+  },
+  "HRL-7 Rocket Launcher": {
+    "prefix": "wbased_on_rpg7",
+    "body": [
+      "based_on=\"rpg7\""
+    ]
+  },
+  "Arbiter Grenade Launcher": {
+    "prefix": "wbased_on_arbiter",
+    "body": [
+      "based_on=\"arbiter\""
+    ]
+  },
+  "Akimbo Castigo .44 Revolvers": {
+    "prefix": "wbased_on_x_chinchilla",
+    "body": [
+      "based_on=\"x_chinchilla\""
+    ]
+  },
+  "KSP Light Machine Gun": {
+    "prefix": "wbased_on_m249",
+    "body": [
+      "based_on=\"m249\""
+    ]
+  },
+  "Little Friend 7.62 Assault Rifle": {
+    "prefix": "wbased_on_contraband",
+    "body": [
+      "based_on=\"contraband\""
+    ]
+  },
+  "JP36 Rifle": {
+    "prefix": "wbased_on_g36",
+    "body": [
+      "based_on=\"g36\""
+    ]
+  },
+  "Flamethrower Mk.1": {
+    "prefix": "wbased_on_flamethrower_mk2",
+    "body": [
+      "based_on=\"flamethrower_mk2\""
+    ]
+  },
+  "Broomstick Pistol": {
+    "prefix": "wbased_on_c96",
+    "body": [
+      "based_on=\"c96\""
+    ]
+  },
+  "Brenner-21 Light Machine Gun": {
+    "prefix": "wbased_on_hk21",
+    "body": [
+      "based_on=\"hk21\""
+    ]
+  },
+  "Akimbo Piglet": {
+    "prefix": "wbased_on_m32_mxakimbo",
+    "body": [
+      "based_on=\"m32_mxakimbo\""
+    ]
+  },
+  "Chimano 88 Pistol": {
+    "prefix": "wbased_on_glock_17",
+    "body": [
+      "based_on=\"glock_17\""
+    ]
+  },
+  "English Longbow": {
+    "prefix": "wbased_on_long",
+    "body": [
+      "based_on=\"long\""
+    ]
+  },
+  "Crosskill Guard Pistol": {
+    "prefix": "wbased_on_shrew",
+    "body": [
+      "based_on=\"shrew\""
+    ]
+  },
+  "Tempest-21 Rifle": {
+    "prefix": "wbased_on_komodo",
+    "body": [
+      "based_on=\"komodo\""
+    ]
+  },
+  "Akimbo Heather Submachine Guns": {
+    "prefix": "wbased_on_x_sr2",
+    "body": [
+      "based_on=\"x_sr2\""
+    ]
+  },
+  "AMCAR Rifle": {
+    "prefix": "wbased_on_amcar",
+    "body": [
+      "based_on=\"amcar\""
+    ]
+  },
+  "Akimbo Arbiter": {
+    "prefix": "wbased_on_arbiter_mxakimbo",
+    "body": [
+      "based_on=\"arbiter_mxakimbo\""
+    ]
+  },
+  "Akimbo Compact 40mm": {
+    "prefix": "wbased_on_slap_mxakimbo",
+    "body": [
+      "based_on=\"slap_mxakimbo\""
+    ]
+  },
+  "Kobus 90 Submachine Gun": {
+    "prefix": "wbased_on_p90",
+    "body": [
+      "based_on=\"p90\""
+    ]
+  },
+  "Akimbo Crosskill Chunky Compact Pistols": {
+    "prefix": "wbased_on_x_m1911",
+    "body": [
+      "based_on=\"x_m1911\""
+    ]
+  },
+  "Airbow": {
+    "prefix": "wbased_on_ecp",
+    "body": [
+      "based_on=\"ecp\""
+    ]
+  },
+  "Akimbo Chimano Compact Pistols": {
+    "prefix": "wbased_on_jowi",
+    "body": [
+      "based_on=\"jowi\""
+    ]
+  },
+  "Peacemaker .45 Revolver": {
+    "prefix": "wbased_on_peacemaker",
+    "body": [
+      "based_on=\"peacemaker\""
+    ]
+  },
+  "Compact 40mm Grenade Launcher": {
+    "prefix": "wbased_on_slap",
+    "body": [
+      "based_on=\"slap\""
+    ]
+  },
+  "Akimbo Contractor Pistols": {
+    "prefix": "wbased_on_x_packrat",
+    "body": [
+      "based_on=\"x_packrat\""
+    ]
+  },
+  "Raven Shotgun": {
+    "prefix": "wbased_on_ksg",
+    "body": [
+      "based_on=\"ksg\""
+    ]
+  },
+  "Sticky Bomb Launcher": {
+    "prefix": "wbased_on_div_sbl",
+    "body": [
+      "based_on=\"div_sbl\""
+    ]
+  },
+  "Baby Deagle": {
+    "prefix": "wbased_on_sparrow",
+    "body": [
+      "based_on=\"sparrow\""
+    ]
+  },
+  "Heather Submachine Gun": {
+    "prefix": "wbased_on_sr2",
+    "body": [
+      "based_on=\"sr2\""
+    ]
+  },
+  "Vulcan Minigun": {
+    "prefix": "wbased_on_m134",
+    "body": [
+      "based_on=\"m134\""
+    ]
+  },
+  "Micro Uzi Submachine Gun": {
+    "prefix": "wbased_on_baka",
+    "body": [
+      "based_on=\"baka\""
+    ]
+  },
+  "Castigo .44 Revolver": {
+    "prefix": "wbased_on_chinchilla",
+    "body": [
+      "based_on=\"chinchilla\""
+    ]
+  }
+}

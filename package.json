@@ -30,6 +30,10 @@
             {
                 "language": "json",
                 "path": "./snippets/json-snippets.code-snippets"
+            },
+            {
+                "language": "xml",
+                "path": "./snippets/based-on-weapon-xml-snippets.code-snippets"
             }
         ]
     }

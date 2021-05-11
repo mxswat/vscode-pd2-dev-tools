@@ -11,7 +11,6 @@ const readInterfaceHashlistLua = readline.createInterface({
 // TODO: ADD EXCEPTIONS LIST eg: projectilestweakdata.lua
 
 const output_xml = {}
-
 const output_json = {}
 
 function templateBuilderHooksXML(path) {
@@ -49,7 +48,7 @@ readInterfaceHashlistLua.on('close', () => {
         if (err) throw err;
         console.log('Data written to file');
     });
-    
+
     fs.writeFile('../snippets/json-snippets.code-snippets', JSON.stringify(output_json, null, 2), { encoding: 'utf8' }, (err) => {
         if (err) throw err;
         console.log('Data written to file');
@@ -104,6 +103,24 @@ AddFilesBase.forEach((nameId) => {
 })
 
 fs.writeFile('../snippets/main-xml-snippets.code-snippets', JSON.stringify(output_main_mx, null, 2), { encoding: 'utf8' }, (err) => {
+    if (err) throw err;
+    console.log('Data written to file');
+});
+
+const weapons_based_on = {}
+const rawdata = fs.readFileSync('./weapons.json');
+const weaponsJSON = JSON.parse(rawdata);
+
+weaponsJSON.forEach((obj) => {
+    weapons_based_on[`${obj.name}`] = {
+        prefix: `wbased_on_${obj.id}`,
+        body: [
+            `based_on="${obj.id}"`,
+        ]
+    }
+})
+
+fs.writeFile('../snippets/based-on-weapon-xml-snippets.code-snippets', JSON.stringify(weapons_based_on, null, 2), { encoding: 'utf8' }, (err) => {
     if (err) throw err;
     console.log('Data written to file');
 });
