@@ -1,9 +1,17 @@
 # Change Log
 
-All notable changes to the "pd2-dev-tools" extension will be documented in this file.
+### 1.0.4
+Added `wbased_on_` for the `main.xml` file, this gives snippets for all the weapons id for the `based_on="*"` prop in the `<weapon>` tag 
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### 1.0.3
+Added `hook_` for the `mod.txt` file, note: You need to set the language mode to .JSON first
 
-## [Unreleased]
+### 1.0.2
+Added Addfile snippets eg: `unit`, `texture`, etc etc
+Renamed `hooks_` snippets to `hook_` and added default value pre-selected this should help you if you want to change the name of the file
 
-- Initial release
+### 1.0.0
+
+Initial release of PD2 Dev tools
+
+Hooks auto complete for the beardlib `main.xml` file
