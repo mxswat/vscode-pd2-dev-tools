@@ -13,6 +13,9 @@ None, I guess(?)
 ## Release Notes
 None
 
+### 1.0.5
+Added the ability to generate `PostHooks`, `PreHooks` and `old_` hooks from any function, via right click or via vscode command line
+
 ### 1.0.4
 Added `wbased_on_` for the `main.xml` file, this gives snippets for all the weapons id for the `based_on="*"` prop in the `<weapon>` tag 
 
