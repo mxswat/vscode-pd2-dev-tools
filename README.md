@@ -13,6 +13,9 @@ None, I guess(?)
 ## Release Notes
 None
 
+### 1.0.3
+Added `hook_` for the `mod.txt` file, note: You need to set the language mode to .JSON first
+
 ### 1.0.2
 Added Addfile snippets eg: `unit`, `texture`, etc etc
 Renamed `hooks_` snippets to `hook_` and added default value pre-selected this should help you if you want to change the name of the file
