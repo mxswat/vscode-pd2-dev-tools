@@ -35,6 +35,42 @@
                 "language": "xml",
                 "path": "./snippets/based-on-weapon-xml-snippets.code-snippets"
             }
-        ]
-    }
+        ],
+        "commands": [
+            {
+                "command": "pd2-dev-tools.build_old_fnc",
+                "title": "Build old_ function"
+            },
+            {
+                "command": "pd2-dev-tools.build_post_hook",
+                "title": "Build PostHook"
+            },
+            {
+                "command": "pd2-dev-tools.build_pre_hook",
+                "title": "Build PreHook"
+            }
+        ],
+        "menus": {
+            "editor/context": [
+                {
+                    "when": "resourceLangId == lua",
+                    "command": "pd2-dev-tools.build_old_fnc"
+                },
+                {
+                    "when": "resourceLangId == lua",
+                    "command": "pd2-dev-tools.build_post_hook"
+                },
+                {
+                    "when": "resourceLangId == lua",
+                    "command": "pd2-dev-tools.build_pre_hook"
+                }
+            ]
+        }
+    },
+    "main": "./extension.js",
+    "activationEvents": [
+        "onCommand:pd2-dev-tools.build_old_fnc",
+        "onCommand:pd2-dev-tools.build_post_hook",
+        "onCommand:pd2-dev-tools.build_pre_hook"
+    ]
 }
