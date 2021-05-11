@@ -12,7 +12,9 @@ const readInterfaceHashlistLua = readline.createInterface({
 
 const output_xml = {}
 
-function templateBuilderHooks(path) {
+const output_json = {}
+
+function templateBuilderHooksXML(path) {
     const filename = path.substr(path.lastIndexOf('/') + 1);
     output_xml[`Hook for ${path}`] = {
         prefix: `hook_${filename}`,
@@ -23,14 +25,32 @@ function templateBuilderHooks(path) {
     }
 }
 
+function templateBuilderHooksJSON(path) {
+    const filename = path.substr(path.lastIndexOf('/') + 1);
+    output_json[`Hook for ${path}`] = {
+        prefix: `hook_${filename}`,
+        body: [
+            `{"script_path" : "\${1:${filename}}.lua",		 	"hook_id" : "${path}"},`,
+            "$2"
+        ]
+    }
+}
+
+
 readInterfaceHashlistLua.on('line', (line) => {
-    templateBuilderHooks(line)
+    templateBuilderHooksXML(line)
+    templateBuilderHooksJSON(line)
 });
 
 readInterfaceHashlistLua.on('close', () => {
     console.log('Done!');
 
     fs.writeFile('../snippets/xml-snippets.code-snippets', JSON.stringify(output_xml, null, 2), { encoding: 'utf8' }, (err) => {
+        if (err) throw err;
+        console.log('Data written to file');
+    });
+    
+    fs.writeFile('../snippets/json-snippets.code-snippets', JSON.stringify(output_json, null, 2), { encoding: 'utf8' }, (err) => {
         if (err) throw err;
         console.log('Data written to file');
     });
