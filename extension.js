@@ -47,9 +47,9 @@ function buildOldFunction() {
 
 function functionBuilder(className, functionName, parameters) {
 	return `
-local old_${className}_${functionName} = ${className}.${functionName};
-function ${className}:${functionName}(${parameters});
-	local result = old_${className}_${functionName}(${parameters ? `self, ${parameters}` : 'self'});
+local old_${className}_${functionName} = ${className}.${functionName}
+function ${className}:${functionName}(${parameters})
+	local result = old_${className}_${functionName}(${parameters ? `self, ${parameters}` : 'self'})
 	-- code
 	return result
 end
