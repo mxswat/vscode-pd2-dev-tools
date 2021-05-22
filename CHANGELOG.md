@@ -1,5 +1,7 @@
 # Change Log
 
+### 1.0.8
+Based on the previous fix, now `PostHook` `PreHook` an `old_` hooks will have `self` as fist argument, if the function has `:` and wont have it if it has a `.` 
 
 ### 1.0.7
 Fixed bug in the `old_` hooks generation where it was always creating functions with the `:` even if the original function had a `.`

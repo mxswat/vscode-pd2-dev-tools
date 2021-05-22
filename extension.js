@@ -8,7 +8,7 @@ function activate(context) {
 
 	let build_old_fnc = vscode.commands.registerCommand('pd2-dev-tools.build_old_fnc', buildOldFunction);
 	context.subscriptions.push(build_old_fnc);
-	
+
 	let build_post_hook = vscode.commands.registerCommand('pd2-dev-tools.build_post_hook', buildPostHook);
 	context.subscriptions.push(build_post_hook);
 
@@ -45,11 +45,19 @@ function buildOldFunction() {
 	notifyAndCopyToclip(output, data[2], data[4])
 }
 
-function functionBuilder(className, dot ,functionName, parameters) {
+function functionArguments(dot, parameters) {
+	if (dot === ".") {
+		return `${parameters ? `${parameters}` : ''}`
+	} else {
+		return `${parameters ? `self, ${parameters}` : 'self'}`
+	}
+}
+
+function functionBuilder(className, dot, functionName, parameters) {
 	return `
 local old_${className}_${functionName} = ${className}.${functionName}
 function ${className}${dot}${functionName}(${parameters})
-	local result = old_${className}_${functionName}(${parameters ? `self, ${parameters}` : 'self'})
+	local result = old_${className}_${functionName}(${functionArguments(dot, parameters)})
 	-- code
 	return result
 end
@@ -58,19 +66,19 @@ end
 
 function buildPostHook() {
 	const data = getFunctionData()
-	const output = HookBuilder(data[2], data[4], data[5], 'PostHook')
+	const output = HookBuilder(data[2], data[3], data[4], data[5], 'PostHook')
 	notifyAndCopyToclip(output, data[2], data[4])
 }
 
 function buildPreHook() {
 	const data = getFunctionData()
-	const output = HookBuilder(data[2], data[4], data[5], 'PreHook')
+	const output = HookBuilder(data[2], data[3], data[4], data[5], 'PreHook')
 	notifyAndCopyToclip(output, data[2], data[4])
 }
 
-function HookBuilder(className, functionName, parameters, type) {
+function HookBuilder(className, dot, functionName, parameters, type) {
 	return `
-Hooks:${type}(${className}, "${functionName}", "CHANGEME_${className}_${functionName}", function(${parameters ? `self, ${parameters}` : 'self'})
+Hooks:${type}(${className}, "${functionName}", "CHANGEME_${className}_${functionName}", function(${functionArguments(dot, parameters)})
 	-- code
 end)`
 }
