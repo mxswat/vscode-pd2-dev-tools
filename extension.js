@@ -41,14 +41,14 @@ function notifyAndCopyToclip(output, className, functionName) {
 
 function buildOldFunction() {
 	const data = getFunctionData()
-	const output = functionBuilder(data[2], data[4], data[5])
+	const output = functionBuilder(data[2], data[3], data[4], data[5])
 	notifyAndCopyToclip(output, data[2], data[4])
 }
 
-function functionBuilder(className, functionName, parameters) {
+function functionBuilder(className, dot ,functionName, parameters) {
 	return `
 local old_${className}_${functionName} = ${className}.${functionName}
-function ${className}:${functionName}(${parameters})
+function ${className}${dot}${functionName}(${parameters})
 	local result = old_${className}_${functionName}(${parameters ? `self, ${parameters}` : 'self'})
 	-- code
 	return result
