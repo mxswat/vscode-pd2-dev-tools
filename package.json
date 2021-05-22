@@ -3,7 +3,7 @@
     "displayName": "Payday 2 Modder's Dev tools",
     "description": "Dev tools for Payday 2(PD2) modders",
     "publisher": "MassimoMx",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "engines": {
         "vscode": "^1.56.0"
     },

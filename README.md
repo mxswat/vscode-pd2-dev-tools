@@ -13,6 +13,9 @@ None, I guess(?)
 ## Release Notes
 None
 
+### 1.0.7
+Fixed bug in the `old_` hooks generation where it was always creating functions with the `:` even if the original function had a `.`
+
 ### 1.0.5
 Added the ability to generate `PostHooks`, `PreHooks` and `old_` hooks from any function, via right click or via vscode command line
 
