@@ -3,7 +3,7 @@
     "displayName": "Payday 2 Modder's Dev tools",
     "description": "Dev tools for Payday 2(PD2) modders",
     "publisher": "MassimoMx",
-    "version": "1.0.8",
+    "version": "1.0.8.1",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -13,6 +13,7 @@
     "repository": {
         "url": "https://github.com/mxswat/vscode-pd2-dev-tools"
     },
+    "icon": "icon.jpg",
     "contributes": {
         "snippets": [
             {
