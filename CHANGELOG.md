@@ -1,5 +1,8 @@
 # Change Log
 
+### 1.0.9
+Added ugly extension icon
+
 ### 1.0.8
 Based on the previous fix, now `PostHook` `PreHook` an `old_` hooks will have `self` as fist argument, if the function has `:` and wont have it if it has a `.` 
 
